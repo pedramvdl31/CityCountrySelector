@@ -1,0 +1,23 @@
+.custom-dropdown {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    z-index: 1000;
+    width: 100%;
+    padding-top: 0;
+}
+
+.custom-dropdown.show {
+    display: block;
+}
+
+.custom-dropdown-item {
+    padding: .5rem 1rem;
+    font-weight: 400;
+}
+
+.custom-dropdown-item:hover {
+    background-color: #f8f9fa;
+    cursor: pointer; /* Add pointer cursor */
+}

@@ -1,0 +1,7874 @@
+[
+    {
+        "id": 129646,
+        "name": "Y",
+        "latitude": "62.16129000",
+        "longitude": "-149.85075000",
+        "country": "United States",
+        "country_id": 233
+    },
+    {
+        "id": 52008,
+        "name": "Y Felinheli",
+        "latitude": "53.18737000",
+        "longitude": "-4.20476000",
+        "country": "United Kingdom",
+        "country_id": 232
+    },
+    {
+        "id": 153678,
+        "name": "Yaba",
+        "latitude": "6.50594570",
+        "longitude": "3.36012860",
+        "country": "Nigeria",
+        "country_id": 161
+    },
+    {
+        "id": 19264,
+        "name": "Yabassi",
+        "latitude": "4.45697000",
+        "longitude": "9.96822000",
+        "country": "Cameroon",
+        "country_id": 38
+    },
+    {
+        "id": 9743,
+        "name": "Yablanitsa",
+        "latitude": "43.03139000",
+        "longitude": "24.11278000",
+        "country": "Bulgaria",
+        "country_id": 34
+    },
+    {
+        "id": 102457,
+        "name": "Yablochnyy",
+        "latitude": "47.15200000",
+        "longitude": "142.05678000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 102458,
+        "name": "Yablonovskiy",
+        "latitude": "44.98901000",
+        "longitude": "38.94324000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 149517,
+        "name": "Yablunets",
+        "latitude": "50.80000000",
+        "longitude": "28.06666667",
+        "country": "Ukraine",
+        "country_id": 230
+    },
+    {
+        "id": 110770,
+        "name": "Yabluniv",
+        "latitude": "48.40418000",
+        "longitude": "24.93874000",
+        "country": "Ukraine",
+        "country_id": 230
+    },
+    {
+        "id": 110771,
+        "name": "Yablunytsya",
+        "latitude": "48.31742000",
+        "longitude": "24.48448000",
+        "country": "Ukraine",
+        "country_id": 230
+    },
+    {
+        "id": 105065,
+        "name": "Yabrūd",
+        "latitude": "33.96921000",
+        "longitude": "36.65729000",
+        "country": "Syria",
+        "country_id": 215
+    },
+    {
+        "id": 64627,
+        "name": "Yabu",
+        "latitude": "35.40304000",
+        "longitude": "134.77118000",
+        "country": "Japan",
+        "country_id": 109
+    },
+    {
+        "id": 64628,
+        "name": "Yabu-shi",
+        "latitude": "35.38333000",
+        "longitude": "134.81667000",
+        "country": "Japan",
+        "country_id": 109
+    },
+    {
+        "id": 153625,
+        "name": "Yabucoa",
+        "latitude": "18.05052010",
+        "longitude": "-65.87932880",
+        "country": "Puerto Rico",
+        "country_id": 178
+    },
+    {
+        "id": 143233,
+        "name": "Yabucoa",
+        "latitude": "18.05052000",
+        "longitude": "-65.87933000",
+        "country": "United States",
+        "country_id": 233
+    },
+    {
+        "id": 143234,
+        "name": "Yabucoa Municipio",
+        "latitude": "18.07302000",
+        "longitude": "-65.88711000",
+        "country": "United States",
+        "country_id": 233
+    },
+    {
+        "id": 131002,
+        "name": "Yabuth",
+        "latitude": "14.71820000",
+        "longitude": "47.73580000",
+        "country": "Yemen",
+        "country_id": 245
+    },
+    {
+        "id": 38717,
+        "name": "Yabēlo",
+        "latitude": "4.88333000",
+        "longitude": "38.08333000",
+        "country": "Ethiopia",
+        "country_id": 70
+    },
+    {
+        "id": 64629,
+        "name": "Yachimata",
+        "latitude": "35.65000000",
+        "longitude": "140.31667000",
+        "country": "Japan",
+        "country_id": 109
+    },
+    {
+        "id": 64630,
+        "name": "Yachimata-shi",
+        "latitude": "35.64241000",
+        "longitude": "140.29686000",
+        "country": "Japan",
+        "country_id": 109
+    },
+    {
+        "id": 64631,
+        "name": "Yachiyo-shi",
+        "latitude": "35.73921000",
+        "longitude": "140.10502000",
+        "country": "Japan",
+        "country_id": 109
+    },
+    {
+        "id": 1593,
+        "name": "Yacimiento Río Turbio",
+        "latitude": "-51.57321000",
+        "longitude": "-72.35080000",
+        "country": "Argentina",
+        "country_id": 11
+    },
+    {
+        "id": 7980,
+        "name": "Yackandandah",
+        "latitude": "-36.31371000",
+        "longitude": "146.83958000",
+        "country": "Australia",
+        "country_id": 14
+    },
+    {
+        "id": 129647,
+        "name": "Yacolt",
+        "latitude": "45.86595000",
+        "longitude": "-122.40621000",
+        "country": "United States",
+        "country_id": 233
+    },
+    {
+        "id": 21619,
+        "name": "Yacopí",
+        "latitude": "5.45948000",
+        "longitude": "-74.33823000",
+        "country": "Colombia",
+        "country_id": 48
+    },
+    {
+        "id": 21620,
+        "name": "Yacuanquer",
+        "latitude": "1.11577000",
+        "longitude": "-77.40169000",
+        "country": "Colombia",
+        "country_id": 48
+    },
+    {
+        "id": 10051,
+        "name": "Yacuiba",
+        "latitude": "-22.01643000",
+        "longitude": "-63.67753000",
+        "country": "Bolivia",
+        "country_id": 27
+    },
+    {
+        "id": 134420,
+        "name": "Yadgir",
+        "latitude": "16.73000000",
+        "longitude": "76.94000000",
+        "country": "India",
+        "country_id": 101
+    },
+    {
+        "id": 129648,
+        "name": "Yadkin County",
+        "latitude": "36.16054000",
+        "longitude": "-80.66534000",
+        "country": "United States",
+        "country_id": 233
+    },
+    {
+        "id": 129649,
+        "name": "Yadkinville",
+        "latitude": "36.13458000",
+        "longitude": "-80.65951000",
+        "country": "United States",
+        "country_id": 233
+    },
+    {
+        "id": 102459,
+        "name": "Yadrin",
+        "latitude": "55.94052000",
+        "longitude": "46.20622000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 102460,
+        "name": "Yadrinskiy Rayon",
+        "latitude": "55.91667000",
+        "longitude": "46.33333000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 131003,
+        "name": "Yafa'a",
+        "latitude": "13.86200000",
+        "longitude": "45.20140000",
+        "country": "Yemen",
+        "country_id": 245
+    },
+    {
+        "id": 67036,
+        "name": "Yafran",
+        "latitude": "32.06329000",
+        "longitude": "12.52859000",
+        "country": "Libya",
+        "country_id": 124
+    },
+    {
+        "id": 76208,
+        "name": "Yaganiza",
+        "latitude": "17.14495000",
+        "longitude": "-96.22960000",
+        "country": "Mexico",
+        "country_id": 142
+    },
+    {
+        "id": 76209,
+        "name": "Yago",
+        "latitude": "21.83601000",
+        "longitude": "-105.06451000",
+        "country": "Mexico",
+        "country_id": 142
+    },
+    {
+        "id": 102461,
+        "name": "Yagodnoye",
+        "latitude": "62.52406000",
+        "longitude": "149.62827000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 7981,
+        "name": "Yagoona",
+        "latitude": "-33.90490000",
+        "longitude": "151.01996000",
+        "country": "Australia",
+        "country_id": 14
+    },
+    {
+        "id": 19265,
+        "name": "Yagoua",
+        "latitude": "10.34107000",
+        "longitude": "15.23288000",
+        "country": "Cameroon",
+        "country_id": 38
+    },
+    {
+        "id": 102462,
+        "name": "Yagry",
+        "latitude": "64.59417000",
+        "longitude": "39.81028000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 31589,
+        "name": "Yaguachi Nuevo",
+        "latitude": "-2.09680000",
+        "longitude": "-79.69485000",
+        "country": "Ecuador",
+        "country_id": 64
+    },
+    {
+        "id": 54367,
+        "name": "Yaguacire",
+        "latitude": "14.01667000",
+        "longitude": "-87.21667000",
+        "country": "Honduras",
+        "country_id": 97
+    },
+    {
+        "id": 21984,
+        "name": "Yaguajay",
+        "latitude": "22.32691000",
+        "longitude": "-79.23567000",
+        "country": "Cuba",
+        "country_id": 56
+    },
+    {
+        "id": 143912,
+        "name": "Yaguará",
+        "latitude": "2.66361111",
+        "longitude": "-75.51750000",
+        "country": "Colombia",
+        "country_id": 48
+    },
+    {
+        "id": 89847,
+        "name": "Yaguarón",
+        "latitude": "-25.56139000",
+        "longitude": "-57.28343000",
+        "country": "Paraguay",
+        "country_id": 172
+    },
+    {
+        "id": 31223,
+        "name": "Yaguate",
+        "latitude": "18.33333000",
+        "longitude": "-70.18333000",
+        "country": "Dominican Republic",
+        "country_id": 62
+    },
+    {
+        "id": 102463,
+        "name": "Yagunovo",
+        "latitude": "55.24645000",
+        "longitude": "86.01097000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 102464,
+        "name": "Yagunovskiy",
+        "latitude": "55.28280000",
+        "longitude": "85.97800000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 110772,
+        "name": "Yahil’nytsya",
+        "latitude": "48.94248000",
+        "longitude": "25.74375000",
+        "country": "Ukraine",
+        "country_id": 230
+    },
+    {
+        "id": 110773,
+        "name": "Yahotyn",
+        "latitude": "50.27975000",
+        "longitude": "31.76246000",
+        "country": "Ukraine",
+        "country_id": 230
+    },
+    {
+        "id": 110774,
+        "name": "Yahotyns’kyy Rayon",
+        "latitude": "50.25722000",
+        "longitude": "31.89456000",
+        "country": "Ukraine",
+        "country_id": 230
+    },
+    {
+        "id": 131004,
+        "name": "Yahr",
+        "latitude": "13.72270000",
+        "longitude": "45.13050000",
+        "country": "Yemen",
+        "country_id": 245
+    },
+    {
+        "id": 76210,
+        "name": "Yahualica",
+        "latitude": "20.91485000",
+        "longitude": "-98.37868000",
+        "country": "Mexico",
+        "country_id": 142
+    },
+    {
+        "id": 142957,
+        "name": "Yahualica de González Gallo",
+        "latitude": "21.17978000",
+        "longitude": "-102.88611000",
+        "country": "Mexico",
+        "country_id": 142
+    },
+    {
+        "id": 108658,
+        "name": "Yahyalı",
+        "latitude": "38.10228000",
+        "longitude": "35.35704000",
+        "country": "Turkey",
+        "country_id": 225
+    },
+    {
+        "id": 108659,
+        "name": "Yahşihan",
+        "latitude": "39.85992000",
+        "longitude": "33.45615000",
+        "country": "Turkey",
+        "country_id": 225
+    },
+    {
+        "id": 48000,
+        "name": "Yainville",
+        "latitude": "49.45371000",
+        "longitude": "0.82920000",
+        "country": "France",
+        "country_id": 75
+    },
+    {
+        "id": 64632,
+        "name": "Yaita",
+        "latitude": "36.80000000",
+        "longitude": "139.93333000",
+        "country": "Japan",
+        "country_id": 109
+    },
+    {
+        "id": 64633,
+        "name": "Yaita-shi",
+        "latitude": "36.82746000",
+        "longitude": "139.89809000",
+        "country": "Japan",
+        "country_id": 109
+    },
+    {
+        "id": 38425,
+        "name": "Yaiza",
+        "latitude": "28.95678000",
+        "longitude": "-13.76535000",
+        "country": "Spain",
+        "country_id": 207
+    },
+    {
+        "id": 64634,
+        "name": "Yaizu",
+        "latitude": "34.86877000",
+        "longitude": "138.31952000",
+        "country": "Japan",
+        "country_id": 109
+    },
+    {
+        "id": 64635,
+        "name": "Yaizu Shi",
+        "latitude": "34.84008000",
+        "longitude": "138.30127000",
+        "country": "Japan",
+        "country_id": 109
+    },
+    {
+        "id": 76211,
+        "name": "Yajalón",
+        "latitude": "17.18519000",
+        "longitude": "-92.32715000",
+        "country": "Mexico",
+        "country_id": 142
+    },
+    {
+        "id": 77139,
+        "name": "Yajiwa",
+        "latitude": "11.38623000",
+        "longitude": "12.71992000",
+        "country": "Nigeria",
+        "country_id": 161
+    },
+    {
+        "id": 108660,
+        "name": "Yakakent",
+        "latitude": "41.63250000",
+        "longitude": "35.52889000",
+        "country": "Turkey",
+        "country_id": 225
+    },
+    {
+        "id": 7982,
+        "name": "Yakamia",
+        "latitude": "-35.00392000",
+        "longitude": "117.87828000",
+        "country": "Australia",
+        "country_id": 14
+    },
+    {
+        "id": 20336,
+        "name": "Yakeshi",
+        "latitude": "49.28333000",
+        "longitude": "120.73333000",
+        "country": "China",
+        "country_id": 45
+    },
+    {
+        "id": 102465,
+        "name": "Yakhroma",
+        "latitude": "56.30000000",
+        "longitude": "37.48333000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 129650,
+        "name": "Yakima",
+        "latitude": "46.60207000",
+        "longitude": "-120.50590000",
+        "country": "United States",
+        "country_id": 233
+    },
+    {
+        "id": 129651,
+        "name": "Yakima County",
+        "latitude": "46.45685000",
+        "longitude": "-120.73870000",
+        "country": "United States",
+        "country_id": 233
+    },
+    {
+        "id": 9744,
+        "name": "Yakimovo",
+        "latitude": "43.63472000",
+        "longitude": "23.35350000",
+        "country": "Bulgaria",
+        "country_id": 34
+    },
+    {
+        "id": 9246,
+        "name": "Yako",
+        "latitude": "12.95910000",
+        "longitude": "-2.26075000",
+        "country": "Burkina Faso",
+        "country_id": 35
+    },
+    {
+        "id": 9745,
+        "name": "Yakoruda",
+        "latitude": "42.02528000",
+        "longitude": "23.68417000",
+        "country": "Bulgaria",
+        "country_id": 34
+    },
+    {
+        "id": 20337,
+        "name": "Yakou",
+        "latitude": "24.67194000",
+        "longitude": "118.63722000",
+        "country": "China",
+        "country_id": 45
+    },
+    {
+        "id": 20338,
+        "name": "Yakou",
+        "latitude": "33.29649000",
+        "longitude": "113.52351000",
+        "country": "China",
+        "country_id": 45
+    },
+    {
+        "id": 102466,
+        "name": "Yakovlevka",
+        "latitude": "44.42588000",
+        "longitude": "133.47406000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 102467,
+        "name": "Yakovlevo",
+        "latitude": "50.86033000",
+        "longitude": "36.44784000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 102468,
+        "name": "Yakovlevo",
+        "latitude": "60.29409000",
+        "longitude": "29.48800000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 102469,
+        "name": "Yakovlevskiy Rayon",
+        "latitude": "50.83333000",
+        "longitude": "36.41667000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 102470,
+        "name": "Yakovlevskiy Rayon",
+        "latitude": "44.41667000",
+        "longitude": "133.50000000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 102471,
+        "name": "Yakovlevskoye",
+        "latitude": "55.44194000",
+        "longitude": "37.94806000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 102472,
+        "name": "Yaksatovo",
+        "latitude": "46.24343000",
+        "longitude": "48.01514000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 129652,
+        "name": "Yakutat City and Borough",
+        "latitude": "59.66667000",
+        "longitude": "-139.13333000",
+        "country": "United States",
+        "country_id": 233
+    },
+    {
+        "id": 108663,
+        "name": "Yakutiye",
+        "latitude": "40.00132000",
+        "longitude": "41.30997000",
+        "country": "Turkey",
+        "country_id": 225
+    },
+    {
+        "id": 102473,
+        "name": "Yakutsk",
+        "latitude": "61.97382000",
+        "longitude": "129.75403000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 110775,
+        "name": "Yakymivka",
+        "latitude": "46.69972000",
+        "longitude": "35.15916000",
+        "country": "Ukraine",
+        "country_id": 230
+    },
+    {
+        "id": 110776,
+        "name": "Yakymivka Raion",
+        "latitude": "46.58333000",
+        "longitude": "35.00000000",
+        "country": "Ukraine",
+        "country_id": 230
+    },
+    {
+        "id": 64881,
+        "name": "Yala",
+        "latitude": "0.09438000",
+        "longitude": "34.53602000",
+        "country": "Kenya",
+        "country_id": 113
+    },
+    {
+        "id": 106755,
+        "name": "Yala",
+        "latitude": "6.53995000",
+        "longitude": "101.28128000",
+        "country": "Thailand",
+        "country_id": 219
+    },
+    {
+        "id": 77296,
+        "name": "Yalagüina",
+        "latitude": "13.48383000",
+        "longitude": "-86.49305000",
+        "country": "Nicaragua",
+        "country_id": 159
+    },
+    {
+        "id": 129653,
+        "name": "Yalaha",
+        "latitude": "28.73860000",
+        "longitude": "-81.80869000",
+        "country": "United States",
+        "country_id": 233
+    },
+    {
+        "id": 52009,
+        "name": "Yalding",
+        "latitude": "51.22387000",
+        "longitude": "0.42920000",
+        "country": "United Kingdom",
+        "country_id": 232
+    },
+    {
+        "id": 129654,
+        "name": "Yale",
+        "latitude": "36.11423000",
+        "longitude": "-96.69919000",
+        "country": "United States",
+        "country_id": 233
+    },
+    {
+        "id": 129655,
+        "name": "Yale",
+        "latitude": "43.13003000",
+        "longitude": "-82.79826000",
+        "country": "United States",
+        "country_id": 233
+    },
+    {
+        "id": 147407,
+        "name": "Yalfan",
+        "latitude": "34.73640000",
+        "longitude": "48.61110000",
+        "country": "Iran",
+        "country_id": 103
+    },
+    {
+        "id": 7983,
+        "name": "Yalgoo",
+        "latitude": "-28.48787000",
+        "longitude": "117.15818000",
+        "country": "Australia",
+        "country_id": 14
+    },
+    {
+        "id": 76212,
+        "name": "Yalina",
+        "latitude": "17.23969000",
+        "longitude": "-96.26233000",
+        "country": "Mexico",
+        "country_id": 142
+    },
+    {
+        "id": 16115,
+        "name": "Yalizava",
+        "latitude": "53.39940000",
+        "longitude": "29.00480000",
+        "country": "Belarus",
+        "country_id": 21
+    },
+    {
+        "id": 102474,
+        "name": "Yalkhoy-Mokhk",
+        "latitude": "43.10528000",
+        "longitude": "46.19045000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 76213,
+        "name": "Yalkoba",
+        "latitude": "20.79167000",
+        "longitude": "-88.03673000",
+        "country": "Mexico",
+        "country_id": 142
+    },
+    {
+        "id": 149145,
+        "name": "Yallah",
+        "latitude": "-34.53375780",
+        "longitude": "150.77768450",
+        "country": "Australia",
+        "country_id": 14
+    },
+    {
+        "id": 63124,
+        "name": "Yallahs",
+        "latitude": "17.87480000",
+        "longitude": "-76.56245000",
+        "country": "Jamaica",
+        "country_id": 108
+    },
+    {
+        "id": 7984,
+        "name": "Yallambie",
+        "latitude": "-37.72515000",
+        "longitude": "145.09352000",
+        "country": "Australia",
+        "country_id": 14
+    },
+    {
+        "id": 7985,
+        "name": "Yallingup",
+        "latitude": "-33.64592000",
+        "longitude": "115.03514000",
+        "country": "Australia",
+        "country_id": 14
+    },
+    {
+        "id": 7986,
+        "name": "Yallourn North",
+        "latitude": "-38.16053000",
+        "longitude": "146.36449000",
+        "country": "Australia",
+        "country_id": 14
+    },
+    {
+        "id": 129656,
+        "name": "Yalobusha County",
+        "latitude": "34.02821000",
+        "longitude": "-89.70763000",
+        "country": "United States",
+        "country_id": 233
+    },
+    {
+        "id": 110777,
+        "name": "Yalta",
+        "latitude": "46.96279000",
+        "longitude": "37.27365000",
+        "country": "Ukraine",
+        "country_id": 230
+    },
+    {
+        "id": 110778,
+        "name": "Yalta",
+        "latitude": "44.50218000",
+        "longitude": "34.16624000",
+        "country": "Ukraine",
+        "country_id": 230
+    },
+    {
+        "id": 76214,
+        "name": "Yaltem",
+        "latitude": "16.84402000",
+        "longitude": "-92.79057000",
+        "country": "Mexico",
+        "country_id": 142
+    },
+    {
+        "id": 102475,
+        "name": "Yalutorovsk",
+        "latitude": "56.65358000",
+        "longitude": "66.30057000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 108666,
+        "name": "Yalvaç",
+        "latitude": "38.29556000",
+        "longitude": "31.17778000",
+        "country": "Turkey",
+        "country_id": 225
+    },
+    {
+        "id": 7987,
+        "name": "Yalyalup",
+        "latitude": "-33.67496000",
+        "longitude": "115.41449000",
+        "country": "Australia",
+        "country_id": 14
+    },
+    {
+        "id": 21621,
+        "name": "Yalí",
+        "latitude": "6.70257000",
+        "longitude": "-74.79018000",
+        "country": "Colombia",
+        "country_id": 48
+    },
+    {
+        "id": 108668,
+        "name": "Yalıhüyük",
+        "latitude": "37.30077000",
+        "longitude": "32.08548000",
+        "country": "Turkey",
+        "country_id": 225
+    },
+    {
+        "id": 102476,
+        "name": "Yal’chikskiy Rayon",
+        "latitude": "55.16667000",
+        "longitude": "47.91667000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 102477,
+        "name": "Yam",
+        "latitude": "55.48785000",
+        "longitude": "37.74458000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 17219,
+        "name": "Yamachiche",
+        "latitude": "46.26676000",
+        "longitude": "-72.83243000",
+        "country": "Canada",
+        "country_id": 39
+    },
+    {
+        "id": 64636,
+        "name": "Yamada",
+        "latitude": "39.46667000",
+        "longitude": "141.95000000",
+        "country": "Japan",
+        "country_id": 109
+    },
+    {
+        "id": 64637,
+        "name": "Yamaga Shi",
+        "latitude": "33.05587000",
+        "longitude": "130.72309000",
+        "country": "Japan",
+        "country_id": 109
+    },
+    {
+        "id": 64638,
+        "name": "Yamagata",
+        "latitude": "38.23333000",
+        "longitude": "140.36667000",
+        "country": "Japan",
+        "country_id": 109
+    },
+    {
+        "id": 148219,
+        "name": "Yamagata",
+        "latitude": "36.16805556",
+        "longitude": "137.87888889",
+        "country": "Japan",
+        "country_id": 109
+    },
+    {
+        "id": 64639,
+        "name": "Yamagata Shi",
+        "latitude": "38.24907000",
+        "longitude": "140.37272000",
+        "country": "Japan",
+        "country_id": 109
+    },
+    {
+        "id": 64640,
+        "name": "Yamagata-shi",
+        "latitude": "35.59892000",
+        "longitude": "136.74311000",
+        "country": "Japan",
+        "country_id": 109
+    },
+    {
+        "id": 64641,
+        "name": "Yamaguchi Shi",
+        "latitude": "34.17753000",
+        "longitude": "131.54667000",
+        "country": "Japan",
+        "country_id": 109
+    },
+    {
+        "id": 64642,
+        "name": "Yamakita",
+        "latitude": "35.36344000",
+        "longitude": "139.07975000",
+        "country": "Japan",
+        "country_id": 109
+    },
+    {
+        "id": 64643,
+        "name": "Yamanashi-shi",
+        "latitude": "35.79691000",
+        "longitude": "138.69743000",
+        "country": "Japan",
+        "country_id": 109
+    },
+    {
+        "id": 148234,
+        "name": "Yamanouchi",
+        "latitude": "36.74472222",
+        "longitude": "138.41250000",
+        "country": "Japan",
+        "country_id": 109
+    },
+    {
+        "id": 7988,
+        "name": "Yamanto",
+        "latitude": "-27.66027000",
+        "longitude": "152.73863000",
+        "country": "Australia",
+        "country_id": 14
+    },
+    {
+        "id": 54368,
+        "name": "Yamaranguila",
+        "latitude": "14.26826000",
+        "longitude": "-88.24652000",
+        "country": "Honduras",
+        "country_id": 97
+    },
+    {
+        "id": 31224,
+        "name": "Yamasá",
+        "latitude": "18.77315000",
+        "longitude": "-70.02583000",
+        "country": "Dominican Republic",
+        "country_id": 62
+    },
+    {
+        "id": 64644,
+        "name": "Yamato-shi",
+        "latitude": "35.46934000",
+        "longitude": "139.46165000",
+        "country": "Japan",
+        "country_id": 109
+    },
+    {
+        "id": 64645,
+        "name": "Yamatokōriyama-shi",
+        "latitude": "34.64917000",
+        "longitude": "135.78278000",
+        "country": "Japan",
+        "country_id": 109
+    },
+    {
+        "id": 64646,
+        "name": "Yamatotakada-shi",
+        "latitude": "34.51490000",
+        "longitude": "135.73660000",
+        "country": "Japan",
+        "country_id": 109
+    },
+    {
+        "id": 64647,
+        "name": "Yamazakichō-nakabirose",
+        "latitude": "35.00000000",
+        "longitude": "134.55000000",
+        "country": "Japan",
+        "country_id": 109
+    },
+    {
+        "id": 7989,
+        "name": "Yamba",
+        "latitude": "-29.43750000",
+        "longitude": "153.35914000",
+        "country": "Australia",
+        "country_id": 14
+    },
+    {
+        "id": 102478,
+        "name": "Yambirno",
+        "latitude": "54.12310000",
+        "longitude": "42.09110000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 9746,
+        "name": "Yambol",
+        "latitude": "42.48333000",
+        "longitude": "26.50000000",
+        "country": "Bulgaria",
+        "country_id": 34
+    },
+    {
+        "id": 150140,
+        "name": "Yamchi",
+        "latitude": "38.52447740",
+        "longitude": "45.63416480",
+        "country": "Iran",
+        "country_id": 103
+    },
+    {
+        "id": 64648,
+        "name": "Yame Shi",
+        "latitude": "33.23302000",
+        "longitude": "130.62775000",
+        "country": "Japan",
+        "country_id": 109
+    },
+    {
+        "id": 67702,
+        "name": "Yamethin",
+        "latitude": "20.43189000",
+        "longitude": "96.13875000",
+        "country": "Myanmar",
+        "country_id": 151
+    },
+    {
+        "id": 129657,
+        "name": "Yamhill",
+        "latitude": "45.34150000",
+        "longitude": "-123.18733000",
+        "country": "United States",
+        "country_id": 233
+    },
+    {
+        "id": 129658,
+        "name": "Yamhill County",
+        "latitude": "45.23260000",
+        "longitude": "-123.30815000",
+        "country": "United States",
+        "country_id": 233
+    },
+    {
+        "id": 102479,
+        "name": "Yamkino",
+        "latitude": "55.92088000",
+        "longitude": "38.40417000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 110779,
+        "name": "Yamnytsya",
+        "latitude": "48.98972000",
+        "longitude": "24.70750000",
+        "country": "Ukraine",
+        "country_id": 230
+    },
+    {
+        "id": 64649,
+        "name": "Yamoto",
+        "latitude": "38.42738000",
+        "longitude": "141.21487000",
+        "country": "Japan",
+        "country_id": 109
+    },
+    {
+        "id": 18942,
+        "name": "Yamoussoukro",
+        "latitude": "6.82055000",
+        "longitude": "-5.27674000",
+        "country": "Cote D'Ivoire (Ivory Coast)",
+        "country_id": 54
+    },
+    {
+        "id": 110780,
+        "name": "Yampil’",
+        "latitude": "48.24240000",
+        "longitude": "28.28195000",
+        "country": "Ukraine",
+        "country_id": 230
+    },
+    {
+        "id": 110781,
+        "name": "Yampil’",
+        "latitude": "51.94765000",
+        "longitude": "33.78759000",
+        "country": "Ukraine",
+        "country_id": 230
+    },
+    {
+        "id": 77140,
+        "name": "Yamrat",
+        "latitude": "10.11161000",
+        "longitude": "9.82604000",
+        "country": "Nigeria",
+        "country_id": 161
+    },
+    {
+        "id": 134422,
+        "name": "Yamunanagar",
+        "latitude": "30.23644000",
+        "longitude": "77.30498000",
+        "country": "India",
+        "country_id": 101
+    },
+    {
+        "id": 106756,
+        "name": "Yan na wa",
+        "latitude": "13.69177000",
+        "longitude": "100.53950000",
+        "country": "Thailand",
+        "country_id": 219
+    },
+    {
+        "id": 81014,
+        "name": "Yanacancha",
+        "latitude": "-10.24111000",
+        "longitude": "-76.64556000",
+        "country": "Peru",
+        "country_id": 173
+    },
+    {
+        "id": 64650,
+        "name": "Yanagawa",
+        "latitude": "33.16667000",
+        "longitude": "130.40000000",
+        "country": "Japan",
+        "country_id": 109
+    },
+    {
+        "id": 64651,
+        "name": "Yanagawa Shi",
+        "latitude": "33.14932000",
+        "longitude": "130.40725000",
+        "country": "Japan",
+        "country_id": 109
+    },
+    {
+        "id": 64652,
+        "name": "Yanagawamachi-saiwaichō",
+        "latitude": "37.85000000",
+        "longitude": "140.60000000",
+        "country": "Japan",
+        "country_id": 109
+    },
+    {
+        "id": 64653,
+        "name": "Yanai Shi",
+        "latitude": "33.96243000",
+        "longitude": "132.13111000",
+        "country": "Japan",
+        "country_id": 109
+    },
+    {
+        "id": 134424,
+        "name": "Yanam",
+        "latitude": "16.73308000",
+        "longitude": "82.21364000",
+        "country": "India",
+        "country_id": 101
+    },
+    {
+        "id": 134425,
+        "name": "Yanam",
+        "latitude": "16.73463000",
+        "longitude": "82.21773000",
+        "country": "India",
+        "country_id": 101
+    },
+    {
+        "id": 134426,
+        "name": "Yanamalakuduru",
+        "latitude": "16.48531000",
+        "longitude": "80.66746000",
+        "country": "India",
+        "country_id": 101
+    },
+    {
+        "id": 81015,
+        "name": "Yanaoca",
+        "latitude": "-14.21806000",
+        "longitude": "-71.43167000",
+        "country": "Peru",
+        "country_id": 173
+    },
+    {
+        "id": 102480,
+        "name": "Yanaul",
+        "latitude": "56.27510000",
+        "longitude": "54.93380000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 102481,
+        "name": "Yanaul’skiy Rayon",
+        "latitude": "56.25000000",
+        "longitude": "54.91667000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 20339,
+        "name": "Yanbian Chaoxianzu Zizhizhou",
+        "latitude": "43.12583000",
+        "longitude": "129.12833000",
+        "country": "China",
+        "country_id": 45
+    },
+    {
+        "id": 102892,
+        "name": "Yanbu",
+        "latitude": "24.08954000",
+        "longitude": "38.06180000",
+        "country": "Saudi Arabia",
+        "country_id": 194
+    },
+    {
+        "id": 129659,
+        "name": "Yancey County",
+        "latitude": "35.89888000",
+        "longitude": "-82.30755000",
+        "country": "United States",
+        "country_id": 233
+    },
+    {
+        "id": 129660,
+        "name": "Yanceyville",
+        "latitude": "36.40403000",
+        "longitude": "-79.33613000",
+        "country": "United States",
+        "country_id": 233
+    },
+    {
+        "id": 149271,
+        "name": "YanCheng",
+        "latitude": "33.20107000",
+        "longitude": "120.50102000",
+        "country": "China",
+        "country_id": 45
+    },
+    {
+        "id": 20340,
+        "name": "Yancheng",
+        "latitude": "33.35750000",
+        "longitude": "120.15730000",
+        "country": "China",
+        "country_id": 45
+    },
+    {
+        "id": 7990,
+        "name": "Yanchep",
+        "latitude": "-31.54678000",
+        "longitude": "115.63171000",
+        "country": "Australia",
+        "country_id": 14
+    },
+    {
+        "id": 77141,
+        "name": "Yanda Bayo",
+        "latitude": "11.50710000",
+        "longitude": "10.74590000",
+        "country": "Nigeria",
+        "country_id": 161
+    },
+    {
+        "id": 77142,
+        "name": "Yandev",
+        "latitude": "7.36308000",
+        "longitude": "9.04235000",
+        "country": "Nigeria",
+        "country_id": 161
+    },
+    {
+        "id": 7991,
+        "name": "Yandina",
+        "latitude": "-26.56165000",
+        "longitude": "152.95595000",
+        "country": "Australia",
+        "country_id": 14
+    },
+    {
+        "id": 102482,
+        "name": "Yandyki",
+        "latitude": "45.76913000",
+        "longitude": "47.12577000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 106757,
+        "name": "Yang Talat",
+        "latitude": "16.39982000",
+        "longitude": "103.36785000",
+        "country": "Thailand",
+        "country_id": 219
+    },
+    {
+        "id": 76215,
+        "name": "Yanga",
+        "latitude": "18.83288000",
+        "longitude": "-96.79837000",
+        "country": "Mexico",
+        "country_id": 142
+    },
+    {
+        "id": 17293,
+        "name": "Yangambi",
+        "latitude": "0.76755000",
+        "longitude": "24.43973000",
+        "country": "Democratic Republic of the Congo",
+        "country_id": 51
+    },
+    {
+        "id": 65535,
+        "name": "Yangcheon-gu",
+        "latitude": "37.52157000",
+        "longitude": "126.85827000",
+        "country": "South Korea",
+        "country_id": 116
+    },
+    {
+        "id": 20341,
+        "name": "Yangchun",
+        "latitude": "22.16667000",
+        "longitude": "111.78333000",
+        "country": "China",
+        "country_id": 45
+    },
+    {
+        "id": 7992,
+        "name": "Yangebup",
+        "latitude": "-32.12065000",
+        "longitude": "115.81623000",
+        "country": "Australia",
+        "country_id": 14
+    },
+    {
+        "id": 20342,
+        "name": "Yanggu",
+        "latitude": "36.11056000",
+        "longitude": "115.77528000",
+        "country": "China",
+        "country_id": 45
+    },
+    {
+        "id": 65536,
+        "name": "Yanggu",
+        "latitude": "38.10583000",
+        "longitude": "127.98944000",
+        "country": "South Korea",
+        "country_id": 116
+    },
+    {
+        "id": 65537,
+        "name": "Yanggu-gun",
+        "latitude": "38.10160000",
+        "longitude": "127.98555000",
+        "country": "South Korea",
+        "country_id": 116
+    },
+    {
+        "id": 20343,
+        "name": "Yanghou",
+        "latitude": "26.64083000",
+        "longitude": "118.50806000",
+        "country": "China",
+        "country_id": 45
+    },
+    {
+        "id": 130019,
+        "name": "Yangi Marg‘ilon",
+        "latitude": "40.42722000",
+        "longitude": "71.71889000",
+        "country": "Uzbekistan",
+        "country_id": 236
+    },
+    {
+        "id": 130020,
+        "name": "Yangiobod",
+        "latitude": "41.11919000",
+        "longitude": "70.09406000",
+        "country": "Uzbekistan",
+        "country_id": 236
+    },
+    {
+        "id": 130021,
+        "name": "Yangiqo‘rg‘on",
+        "latitude": "41.19474000",
+        "longitude": "71.72385000",
+        "country": "Uzbekistan",
+        "country_id": 236
+    },
+    {
+        "id": 130022,
+        "name": "Yangirabot",
+        "latitude": "40.02539000",
+        "longitude": "65.96095000",
+        "country": "Uzbekistan",
+        "country_id": 236
+    },
+    {
+        "id": 130023,
+        "name": "Yangiyer",
+        "latitude": "40.27500000",
+        "longitude": "68.82250000",
+        "country": "Uzbekistan",
+        "country_id": 236
+    },
+    {
+        "id": 130024,
+        "name": "Yangiyŭl",
+        "latitude": "41.11202000",
+        "longitude": "69.04710000",
+        "country": "Uzbekistan",
+        "country_id": 236
+    },
+    {
+        "id": 20344,
+        "name": "Yangjiang",
+        "latitude": "21.85563000",
+        "longitude": "111.96272000",
+        "country": "China",
+        "country_id": 45
+    },
+    {
+        "id": 149206,
+        "name": "Yangjinzhuang",
+        "latitude": "39.86645000",
+        "longitude": "117.42592000",
+        "country": "China",
+        "country_id": 45
+    },
+    {
+        "id": 65538,
+        "name": "Yangju",
+        "latitude": "37.83311000",
+        "longitude": "127.06169000",
+        "country": "South Korea",
+        "country_id": 116
+    },
+    {
+        "id": 65539,
+        "name": "Yangju-si",
+        "latitude": "37.81732000",
+        "longitude": "127.04600000",
+        "country": "South Korea",
+        "country_id": 116
+    },
+    {
+        "id": 149207,
+        "name": "Yangliuqing",
+        "latitude": "39.12740000",
+        "longitude": "117.00885000",
+        "country": "China",
+        "country_id": 45
+    },
+    {
+        "id": 67703,
+        "name": "Yangon",
+        "latitude": "16.80528000",
+        "longitude": "96.15611000",
+        "country": "Myanmar",
+        "country_id": 151
+    },
+    {
+        "id": 65540,
+        "name": "Yangp'yŏng",
+        "latitude": "37.48972000",
+        "longitude": "127.49056000",
+        "country": "South Korea",
+        "country_id": 116
+    },
+    {
+        "id": 65541,
+        "name": "Yangpyeong-gun",
+        "latitude": "37.48880000",
+        "longitude": "127.49222000",
+        "country": "South Korea",
+        "country_id": 116
+    },
+    {
+        "id": 20345,
+        "name": "Yangquan",
+        "latitude": "37.85750000",
+        "longitude": "113.56333000",
+        "country": "China",
+        "country_id": 45
+    },
+    {
+        "id": 65542,
+        "name": "Yangsan",
+        "latitude": "35.34199000",
+        "longitude": "129.03358000",
+        "country": "South Korea",
+        "country_id": 116
+    },
+    {
+        "id": 20346,
+        "name": "Yangshuo",
+        "latitude": "24.78081000",
+        "longitude": "110.48967000",
+        "country": "China",
+        "country_id": 45
+    },
+    {
+        "id": 20347,
+        "name": "Yangtou",
+        "latitude": "27.68944000",
+        "longitude": "109.41389000",
+        "country": "China",
+        "country_id": 45
+    },
+    {
+        "id": 38426,
+        "name": "Yanguas",
+        "latitude": "42.10171000",
+        "longitude": "-2.33986000",
+        "country": "Spain",
+        "country_id": 207
+    },
+    {
+        "id": 38427,
+        "name": "Yanguas de Eresma",
+        "latitude": "41.07201000",
+        "longitude": "-4.23905000",
+        "country": "Spain",
+        "country_id": 207
+    },
+    {
+        "id": 65543,
+        "name": "Yangyang-gun",
+        "latitude": "38.06215000",
+        "longitude": "128.61471000",
+        "country": "South Korea",
+        "country_id": 116
+    },
+    {
+        "id": 20348,
+        "name": "Yangzhong",
+        "latitude": "26.70556000",
+        "longitude": "119.37444000",
+        "country": "China",
+        "country_id": 45
+    },
+    {
+        "id": 149272,
+        "name": "YangZhou",
+        "latitude": "32.39463000",
+        "longitude": "119.43157000",
+        "country": "China",
+        "country_id": 45
+    },
+    {
+        "id": 20349,
+        "name": "Yangzhou",
+        "latitude": "32.39722000",
+        "longitude": "119.43583000",
+        "country": "China",
+        "country_id": 45
+    },
+    {
+        "id": 102483,
+        "name": "Yanino-1",
+        "latitude": "59.94808000",
+        "longitude": "30.55914000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 102484,
+        "name": "Yanishpole",
+        "latitude": "62.11095000",
+        "longitude": "34.27013000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 102485,
+        "name": "Yanis’yarvi",
+        "latitude": "61.89127000",
+        "longitude": "30.94849000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 20350,
+        "name": "Yanji",
+        "latitude": "42.90750000",
+        "longitude": "129.50778000",
+        "country": "China",
+        "country_id": 45
+    },
+    {
+        "id": 20351,
+        "name": "Yanjiang",
+        "latitude": "30.12108000",
+        "longitude": "104.64811000",
+        "country": "China",
+        "country_id": 45
+    },
+    {
+        "id": 7993,
+        "name": "Yankalilla",
+        "latitude": "-35.49390000",
+        "longitude": "138.34225000",
+        "country": "Australia",
+        "country_id": 14
+    },
+    {
+        "id": 129661,
+        "name": "Yankton",
+        "latitude": "42.87111000",
+        "longitude": "-97.39728000",
+        "country": "United States",
+        "country_id": 233
+    },
+    {
+        "id": 129662,
+        "name": "Yankton County",
+        "latitude": "43.00897000",
+        "longitude": "-97.39475000",
+        "country": "United States",
+        "country_id": 233
+    },
+    {
+        "id": 20352,
+        "name": "Yanliang",
+        "latitude": "34.65918000",
+        "longitude": "109.22921000",
+        "country": "China",
+        "country_id": 45
+    },
+    {
+        "id": 20353,
+        "name": "Yanmen",
+        "latitude": "27.85500000",
+        "longitude": "109.74028000",
+        "country": "China",
+        "country_id": 45
+    },
+    {
+        "id": 79950,
+        "name": "Yanqul",
+        "latitude": "23.58645000",
+        "longitude": "56.53969000",
+        "country": "Oman",
+        "country_id": 166
+    },
+    {
+        "id": 20354,
+        "name": "Yanshi Chengguanzhen",
+        "latitude": "34.71601000",
+        "longitude": "112.79568000",
+        "country": "China",
+        "country_id": 45
+    },
+    {
+        "id": 20355,
+        "name": "Yanta",
+        "latitude": "36.24111000",
+        "longitude": "115.66722000",
+        "country": "China",
+        "country_id": 45
+    },
+    {
+        "id": 20356,
+        "name": "Yantai",
+        "latitude": "37.47649000",
+        "longitude": "121.44081000",
+        "country": "China",
+        "country_id": 45
+    },
+    {
+        "id": 105962,
+        "name": "Yantal’",
+        "latitude": "56.84710000",
+        "longitude": "105.25420000",
+        "country": "Ukraine",
+        "country_id": 230
+    },
+    {
+        "id": 110782,
+        "name": "Yantarnoye",
+        "latitude": "45.43473000",
+        "longitude": "34.22134000",
+        "country": "Ukraine",
+        "country_id": 230
+    },
+    {
+        "id": 102486,
+        "name": "Yantarnyy",
+        "latitude": "54.87102000",
+        "longitude": "19.94016000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 20357,
+        "name": "Yantian",
+        "latitude": "26.85333000",
+        "longitude": "119.85750000",
+        "country": "China",
+        "country_id": 45
+    },
+    {
+        "id": 102487,
+        "name": "Yantikovo",
+        "latitude": "55.82158000",
+        "longitude": "47.91036000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 102488,
+        "name": "Yantikovskiy Rayon",
+        "latitude": "55.50000000",
+        "longitude": "47.83333000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 20358,
+        "name": "Yantongshan",
+        "latitude": "43.29194000",
+        "longitude": "126.00944000",
+        "country": "China",
+        "country_id": 45
+    },
+    {
+        "id": 31590,
+        "name": "Yantzaza",
+        "latitude": "-3.83261000",
+        "longitude": "-78.76076000",
+        "country": "Ecuador",
+        "country_id": 64
+    },
+    {
+        "id": 65827,
+        "name": "Yanykurgan",
+        "latitude": "43.90652000",
+        "longitude": "67.24637000",
+        "country": "Kazakhstan",
+        "country_id": 112
+    },
+    {
+        "id": 20359,
+        "name": "Yanzhou",
+        "latitude": "35.55278000",
+        "longitude": "116.82861000",
+        "country": "China",
+        "country_id": 45
+    },
+    {
+        "id": 8193,
+        "name": "Yanıqlı",
+        "latitude": "40.84320000",
+        "longitude": "45.68030000",
+        "country": "Azerbaijan",
+        "country_id": 16
+    },
+    {
+        "id": 64654,
+        "name": "Yao",
+        "latitude": "34.61667000",
+        "longitude": "135.60000000",
+        "country": "Japan",
+        "country_id": 109
+    },
+    {
+        "id": 64655,
+        "name": "Yao-shi",
+        "latitude": "34.62629000",
+        "longitude": "135.60099000",
+        "country": "Japan",
+        "country_id": 109
+    },
+    {
+        "id": 76216,
+        "name": "Yaonahuac",
+        "latitude": "19.87076000",
+        "longitude": "-97.46587000",
+        "country": "Mexico",
+        "country_id": 142
+    },
+    {
+        "id": 20360,
+        "name": "Yaoshi",
+        "latitude": "26.29306000",
+        "longitude": "110.78917000",
+        "country": "China",
+        "country_id": 45
+    },
+    {
+        "id": 19266,
+        "name": "Yaoundé",
+        "latitude": "3.86667000",
+        "longitude": "11.51667000",
+        "country": "Cameroon",
+        "country_id": 38
+    },
+    {
+        "id": 85318,
+        "name": "Yapak",
+        "latitude": "11.95000000",
+        "longitude": "121.93333000",
+        "country": "Philippines",
+        "country_id": 174
+    },
+    {
+        "id": 80551,
+        "name": "Yape",
+        "latitude": "8.09839000",
+        "longitude": "-77.59817000",
+        "country": "Panama",
+        "country_id": 170
+    },
+    {
+        "id": 1594,
+        "name": "Yapeyú",
+        "latitude": "-29.46914000",
+        "longitude": "-56.81841000",
+        "country": "Argentina",
+        "country_id": 11
+    },
+    {
+        "id": 129663,
+        "name": "Yaphank",
+        "latitude": "40.83677000",
+        "longitude": "-72.91705000",
+        "country": "United States",
+        "country_id": 233
+    },
+    {
+        "id": 108673,
+        "name": "Yapraklı",
+        "latitude": "40.75785000",
+        "longitude": "33.77819000",
+        "country": "Turkey",
+        "country_id": 225
+    },
+    {
+        "id": 52010,
+        "name": "Yapton",
+        "latitude": "50.82090000",
+        "longitude": "-0.61300000",
+        "country": "United Kingdom",
+        "country_id": 232
+    },
+    {
+        "id": 102489,
+        "name": "Yar",
+        "latitude": "58.24580000",
+        "longitude": "52.10540000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 102490,
+        "name": "Yar-Sale",
+        "latitude": "66.86540000",
+        "longitude": "70.83784000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 21985,
+        "name": "Yara",
+        "latitude": "20.27465000",
+        "longitude": "-76.95132000",
+        "country": "Cuba",
+        "country_id": 56
+    },
+    {
+        "id": 134437,
+        "name": "Yarada",
+        "latitude": "17.65872000",
+        "longitude": "83.27419000",
+        "country": "India",
+        "country_id": 101
+    },
+    {
+        "id": 102491,
+        "name": "Yaransk",
+        "latitude": "57.30331000",
+        "longitude": "47.88611000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 102492,
+        "name": "Yaranskiy Rayon",
+        "latitude": "57.16667000",
+        "longitude": "48.00000000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 129664,
+        "name": "Yardley",
+        "latitude": "40.24566000",
+        "longitude": "-74.84600000",
+        "country": "United States",
+        "country_id": 233
+    },
+    {
+        "id": 129665,
+        "name": "Yardville",
+        "latitude": "40.18122000",
+        "longitude": "-74.66432000",
+        "country": "United States",
+        "country_id": 233
+    },
+    {
+        "id": 8194,
+        "name": "Yardımlı",
+        "latitude": "38.90771000",
+        "longitude": "48.24052000",
+        "country": "Azerbaijan",
+        "country_id": 16
+    },
+    {
+        "id": 102493,
+        "name": "Yarega",
+        "latitude": "63.43543000",
+        "longitude": "53.57650000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 110783,
+        "name": "Yaremchans’ks Mis’krada",
+        "latitude": "48.33234000",
+        "longitude": "24.57426000",
+        "country": "Ukraine",
+        "country_id": 230
+    },
+    {
+        "id": 110784,
+        "name": "Yaremche",
+        "latitude": "48.45157000",
+        "longitude": "24.55436000",
+        "country": "Ukraine",
+        "country_id": 230
+    },
+    {
+        "id": 79767,
+        "name": "Yaren",
+        "latitude": "-0.55085000",
+        "longitude": "166.92520000",
+        "country": "Nauru",
+        "country_id": 153
+    },
+    {
+        "id": 102494,
+        "name": "Yarensk",
+        "latitude": "62.16755000",
+        "longitude": "49.09162000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 106758,
+        "name": "Yaring",
+        "latitude": "6.86617000",
+        "longitude": "101.36894000",
+        "country": "Thailand",
+        "country_id": 219
+    },
+    {
+        "id": 130170,
+        "name": "Yaritagua",
+        "latitude": "10.08081000",
+        "longitude": "-69.12420000",
+        "country": "Venezuela",
+        "country_id": 239
+    },
+    {
+        "id": 102495,
+        "name": "Yarkovo",
+        "latitude": "57.40386000",
+        "longitude": "67.06390000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 102496,
+        "name": "Yarkovo",
+        "latitude": "54.80560000",
+        "longitude": "82.59890000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 110785,
+        "name": "Yarkoye",
+        "latitude": "45.69120000",
+        "longitude": "34.26323000",
+        "country": "Ukraine",
+        "country_id": 230
+    },
+    {
+        "id": 110786,
+        "name": "Yarkoye Pole",
+        "latitude": "45.20581000",
+        "longitude": "35.19848000",
+        "country": "Ukraine",
+        "country_id": 230
+    },
+    {
+        "id": 52011,
+        "name": "Yarm",
+        "latitude": "54.50364000",
+        "longitude": "-1.35793000",
+        "country": "United Kingdom",
+        "country_id": 232
+    },
+    {
+        "id": 110787,
+        "name": "Yarmolyntsi",
+        "latitude": "49.19236000",
+        "longitude": "26.83725000",
+        "country": "Ukraine",
+        "country_id": 230
+    },
+    {
+        "id": 153254,
+        "name": "Yarmouk",
+        "latitude": "33.33938360",
+        "longitude": "44.32212520",
+        "country": "Iraq",
+        "country_id": 104
+    },
+    {
+        "id": 17220,
+        "name": "Yarmouth",
+        "latitude": "43.83345000",
+        "longitude": "-66.11557000",
+        "country": "Canada",
+        "country_id": 39
+    },
+    {
+        "id": 52012,
+        "name": "Yarmouth",
+        "latitude": "50.70529000",
+        "longitude": "-1.49929000",
+        "country": "United Kingdom",
+        "country_id": 232
+    },
+    {
+        "id": 129666,
+        "name": "Yarmouth",
+        "latitude": "43.80064000",
+        "longitude": "-70.18672000",
+        "country": "United States",
+        "country_id": 233
+    },
+    {
+        "id": 129667,
+        "name": "Yarmouth",
+        "latitude": "41.70567000",
+        "longitude": "-70.22863000",
+        "country": "United States",
+        "country_id": 233
+    },
+    {
+        "id": 129668,
+        "name": "Yarmouth Port",
+        "latitude": "41.70205000",
+        "longitude": "-70.24947000",
+        "country": "United States",
+        "country_id": 233
+    },
+    {
+        "id": 52013,
+        "name": "Yarnton",
+        "latitude": "51.80448000",
+        "longitude": "-1.31149000",
+        "country": "United Kingdom",
+        "country_id": 232
+    },
+    {
+        "id": 147408,
+        "name": "Yarom Qayah",
+        "latitude": "35.06890000",
+        "longitude": "49.38170000",
+        "country": "Iran",
+        "country_id": 103
+    },
+    {
+        "id": 147409,
+        "name": "Yaromjeh Bagh",
+        "latitude": "35.51750000",
+        "longitude": "48.67640000",
+        "country": "Iran",
+        "country_id": 103
+    },
+    {
+        "id": 7994,
+        "name": "Yaroomba",
+        "latitude": "-26.55126000",
+        "longitude": "153.09701000",
+        "country": "Australia",
+        "country_id": 14
+    },
+    {
+        "id": 102497,
+        "name": "Yaropolets",
+        "latitude": "56.13333000",
+        "longitude": "35.83317000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 102498,
+        "name": "Yaroslavichi",
+        "latitude": "60.49275000",
+        "longitude": "34.50806000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 102499,
+        "name": "Yaroslavl",
+        "latitude": "57.62987000",
+        "longitude": "39.87368000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 102500,
+        "name": "Yaroslavskaya",
+        "latitude": "44.61056000",
+        "longitude": "40.46417000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 102501,
+        "name": "Yaroslavskiy",
+        "latitude": "55.88333000",
+        "longitude": "37.71667000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 102502,
+        "name": "Yaroslavskiy",
+        "latitude": "44.18578000",
+        "longitude": "132.22862000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 102503,
+        "name": "Yaroslavskiy Rayon",
+        "latitude": "57.58333000",
+        "longitude": "40.00000000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 102504,
+        "name": "Yarovoye",
+        "latitude": "52.92730000",
+        "longitude": "78.58000000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 81016,
+        "name": "Yarowilca",
+        "latitude": "-9.80263000",
+        "longitude": "-76.59516000",
+        "country": "Peru",
+        "country_id": 173
+    },
+    {
+        "id": 63195,
+        "name": "Yarqā",
+        "latitude": "31.97583000",
+        "longitude": "35.69638000",
+        "country": "Jordan",
+        "country_id": 111
+    },
+    {
+        "id": 7995,
+        "name": "Yarra",
+        "latitude": "-37.80178000",
+        "longitude": "144.99593000",
+        "country": "Australia",
+        "country_id": 14
+    },
+    {
+        "id": 7996,
+        "name": "Yarra Glen",
+        "latitude": "-37.65794000",
+        "longitude": "145.37416000",
+        "country": "Australia",
+        "country_id": 14
+    },
+    {
+        "id": 7997,
+        "name": "Yarra Junction",
+        "latitude": "-37.78192000",
+        "longitude": "145.61430000",
+        "country": "Australia",
+        "country_id": 14
+    },
+    {
+        "id": 7998,
+        "name": "Yarra Ranges",
+        "latitude": "-37.75006000",
+        "longitude": "145.73708000",
+        "country": "Australia",
+        "country_id": 14
+    },
+    {
+        "id": 7999,
+        "name": "Yarrabah",
+        "latitude": "-16.99463000",
+        "longitude": "145.88058000",
+        "country": "Australia",
+        "country_id": 14
+    },
+    {
+        "id": 8000,
+        "name": "Yarrabilba",
+        "latitude": "-27.80864000",
+        "longitude": "153.11163000",
+        "country": "Australia",
+        "country_id": 14
+    },
+    {
+        "id": 8001,
+        "name": "Yarragon",
+        "latitude": "-38.20525000",
+        "longitude": "146.06079000",
+        "country": "Australia",
+        "country_id": 14
+    },
+    {
+        "id": 8002,
+        "name": "Yarralumla",
+        "latitude": "-35.29980000",
+        "longitude": "149.10585000",
+        "country": "Australia",
+        "country_id": 14
+    },
+    {
+        "id": 8003,
+        "name": "Yarram",
+        "latitude": "-38.56479000",
+        "longitude": "146.67557000",
+        "country": "Australia",
+        "country_id": 14
+    },
+    {
+        "id": 8004,
+        "name": "Yarraman",
+        "latitude": "-26.84167000",
+        "longitude": "151.98138000",
+        "country": "Australia",
+        "country_id": 14
+    },
+    {
+        "id": 8005,
+        "name": "Yarrambat",
+        "latitude": "-37.63751000",
+        "longitude": "145.13486000",
+        "country": "Australia",
+        "country_id": 14
+    },
+    {
+        "id": 8006,
+        "name": "Yarravel",
+        "latitude": "-31.04295000",
+        "longitude": "152.76191000",
+        "country": "Australia",
+        "country_id": 14
+    },
+    {
+        "id": 8007,
+        "name": "Yarraville",
+        "latitude": "-37.81667000",
+        "longitude": "144.90000000",
+        "country": "Australia",
+        "country_id": 14
+    },
+    {
+        "id": 8008,
+        "name": "Yarrawarrah",
+        "latitude": "-34.05351000",
+        "longitude": "151.03563000",
+        "country": "Australia",
+        "country_id": 14
+    },
+    {
+        "id": 8009,
+        "name": "Yarrawonga",
+        "latitude": "-36.01923000",
+        "longitude": "145.99973000",
+        "country": "Australia",
+        "country_id": 14
+    },
+    {
+        "id": 8010,
+        "name": "Yarriambiack",
+        "latitude": "-36.02618000",
+        "longitude": "142.40452000",
+        "country": "Australia",
+        "country_id": 14
+    },
+    {
+        "id": 129669,
+        "name": "Yarrow Point",
+        "latitude": "47.64621000",
+        "longitude": "-122.21735000",
+        "country": "United States",
+        "country_id": 233
+    },
+    {
+        "id": 102505,
+        "name": "Yartsevo",
+        "latitude": "55.06667000",
+        "longitude": "32.69639000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 54369,
+        "name": "Yaruchel",
+        "latitude": "14.53333000",
+        "longitude": "-88.81667000",
+        "country": "Honduras",
+        "country_id": 97
+    },
+    {
+        "id": 54370,
+        "name": "Yarula",
+        "latitude": "14.10000000",
+        "longitude": "-88.08000000",
+        "country": "Honduras",
+        "country_id": 97
+    },
+    {
+        "id": 21622,
+        "name": "Yarumal",
+        "latitude": "6.98532000",
+        "longitude": "-75.45402000",
+        "country": "Colombia",
+        "country_id": 48
+    },
+    {
+        "id": 54371,
+        "name": "Yarumela",
+        "latitude": "14.33333000",
+        "longitude": "-87.63333000",
+        "country": "Honduras",
+        "country_id": 97
+    },
+    {
+        "id": 149518,
+        "name": "Yarun",
+        "latitude": "50.54333333",
+        "longitude": "27.46611111",
+        "country": "Ukraine",
+        "country_id": 230
+    },
+    {
+        "id": 131005,
+        "name": "Yarīm",
+        "latitude": "14.25388000",
+        "longitude": "44.31176000",
+        "country": "Yemen",
+        "country_id": 245
+    },
+    {
+        "id": 102506,
+        "name": "Yasenevo",
+        "latitude": "55.60686000",
+        "longitude": "37.51991000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 102507,
+        "name": "Yasenskaya",
+        "latitude": "46.35920000",
+        "longitude": "38.26900000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 76217,
+        "name": "Yasha",
+        "latitude": "16.39141000",
+        "longitude": "-92.06878000",
+        "country": "Mexico",
+        "country_id": 142
+    },
+    {
+        "id": 102508,
+        "name": "Yashalta",
+        "latitude": "46.33950000",
+        "longitude": "42.27620000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 102509,
+        "name": "Yashaltinskiy Rayon",
+        "latitude": "46.25000000",
+        "longitude": "42.50000000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 20361,
+        "name": "Yashan",
+        "latitude": "22.19750000",
+        "longitude": "109.94194000",
+        "country": "China",
+        "country_id": 45
+    },
+    {
+        "id": 76218,
+        "name": "Yashanal",
+        "latitude": "16.82889000",
+        "longitude": "-92.45194000",
+        "country": "Mexico",
+        "country_id": 142
+    },
+    {
+        "id": 77143,
+        "name": "Yashikera",
+        "latitude": "9.76667000",
+        "longitude": "3.40000000",
+        "country": "Nigeria",
+        "country_id": 161
+    },
+    {
+        "id": 64656,
+        "name": "Yashio",
+        "latitude": "35.82255000",
+        "longitude": "139.83905000",
+        "country": "Japan",
+        "country_id": 109
+    },
+    {
+        "id": 64657,
+        "name": "Yashio-shi",
+        "latitude": "35.80918000",
+        "longitude": "139.84669000",
+        "country": "Japan",
+        "country_id": 109
+    },
+    {
+        "id": 64658,
+        "name": "Yashiro",
+        "latitude": "34.91667000",
+        "longitude": "134.96667000",
+        "country": "Japan",
+        "country_id": 109
+    },
+    {
+        "id": 102510,
+        "name": "Yashkino",
+        "latitude": "55.87360000",
+        "longitude": "85.42650000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 102511,
+        "name": "Yashkul’",
+        "latitude": "46.17110000",
+        "longitude": "45.34350000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 110788,
+        "name": "Yasinya",
+        "latitude": "48.27937000",
+        "longitude": "24.36042000",
+        "country": "Ukraine",
+        "country_id": 230
+    },
+    {
+        "id": 102512,
+        "name": "Yasnaya Polyana",
+        "latitude": "44.02250000",
+        "longitude": "42.75390000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 102513,
+        "name": "Yasnogorsk",
+        "latitude": "54.48082000",
+        "longitude": "37.69854000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 102514,
+        "name": "Yasnogorskiy Rayon",
+        "latitude": "54.50000000",
+        "longitude": "37.75000000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 110789,
+        "name": "Yasnopolyanskoye",
+        "latitude": "45.94097000",
+        "longitude": "34.35262000",
+        "country": "Ukraine",
+        "country_id": 230
+    },
+    {
+        "id": 102515,
+        "name": "Yasnyy",
+        "latitude": "51.03330000",
+        "longitude": "59.87420000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 106759,
+        "name": "Yasothon",
+        "latitude": "15.79408000",
+        "longitude": "104.14510000",
+        "country": "Thailand",
+        "country_id": 219
+    },
+    {
+        "id": 8011,
+        "name": "Yass",
+        "latitude": "-34.84036000",
+        "longitude": "148.90987000",
+        "country": "Australia",
+        "country_id": 14
+    },
+    {
+        "id": 8012,
+        "name": "Yass Valley",
+        "latitude": "-34.92630000",
+        "longitude": "148.97240000",
+        "country": "Australia",
+        "country_id": 14
+    },
+    {
+        "id": 64659,
+        "name": "Yasu-shi",
+        "latitude": "35.06801000",
+        "longitude": "136.02327000",
+        "country": "Japan",
+        "country_id": 109
+    },
+    {
+        "id": 148282,
+        "name": "Yasuda",
+        "latitude": "33.43833333",
+        "longitude": "133.98111111",
+        "country": "Japan",
+        "country_id": 109
+    },
+    {
+        "id": 64660,
+        "name": "Yasugi Shi",
+        "latitude": "35.33570000",
+        "longitude": "133.19761000",
+        "country": "Japan",
+        "country_id": 109
+    },
+    {
+        "id": 64661,
+        "name": "Yasugichō",
+        "latitude": "35.42146000",
+        "longitude": "133.24224000",
+        "country": "Japan",
+        "country_id": 109
+    },
+    {
+        "id": 135139,
+        "name": "Yasuj",
+        "latitude": "30.66824000",
+        "longitude": "51.58796000",
+        "country": "Iran",
+        "country_id": 103
+    },
+    {
+        "id": 148229,
+        "name": "Yasuoka",
+        "latitude": "35.37722222",
+        "longitude": "137.84583333",
+        "country": "Japan",
+        "country_id": 109
+    },
+    {
+        "id": 110790,
+        "name": "Yasynuvata",
+        "latitude": "48.12980000",
+        "longitude": "37.85940000",
+        "country": "Ukraine",
+        "country_id": 230
+    },
+    {
+        "id": 110791,
+        "name": "Yasynuvata Raion",
+        "latitude": "48.16667000",
+        "longitude": "37.83333000",
+        "country": "Ukraine",
+        "country_id": 230
+    },
+    {
+        "id": 1595,
+        "name": "Yataity Calle",
+        "latitude": "-29.01913000",
+        "longitude": "-58.90846000",
+        "country": "Argentina",
+        "country_id": 11
+    },
+    {
+        "id": 89848,
+        "name": "Yataity del Norte",
+        "latitude": "-24.83333000",
+        "longitude": "-56.35000000",
+        "country": "Paraguay",
+        "country_id": 172
+    },
+    {
+        "id": 8013,
+        "name": "Yatala",
+        "latitude": "-27.71667000",
+        "longitude": "153.21667000",
+        "country": "Australia",
+        "country_id": 14
+    },
+    {
+        "id": 108676,
+        "name": "Yatağan",
+        "latitude": "37.35864000",
+        "longitude": "28.11441000",
+        "country": "Turkey",
+        "country_id": 225
+    },
+    {
+        "id": 52014,
+        "name": "Yate",
+        "latitude": "51.54074000",
+        "longitude": "-2.41839000",
+        "country": "United Kingdom",
+        "country_id": 232
+    },
+    {
+        "id": 52015,
+        "name": "Yateley",
+        "latitude": "51.34305000",
+        "longitude": "-0.82985000",
+        "country": "United Kingdom",
+        "country_id": 232
+    },
+    {
+        "id": 129670,
+        "name": "Yates Center",
+        "latitude": "37.88115000",
+        "longitude": "-95.73332000",
+        "country": "United States",
+        "country_id": 233
+    },
+    {
+        "id": 129671,
+        "name": "Yates County",
+        "latitude": "42.63344000",
+        "longitude": "-77.10546000",
+        "country": "United States",
+        "country_id": 233
+    },
+    {
+        "id": 146155,
+        "name": "Yatinuwara",
+        "latitude": "7.28584509",
+        "longitude": "80.53516168",
+        "country": "Sri Lanka",
+        "country_id": 208
+    },
+    {
+        "id": 64662,
+        "name": "Yatomi-shi",
+        "latitude": "35.10938000",
+        "longitude": "136.72451000",
+        "country": "Japan",
+        "country_id": 109
+    },
+    {
+        "id": 20362,
+        "name": "Yatou",
+        "latitude": "37.15660000",
+        "longitude": "122.43762000",
+        "country": "China",
+        "country_id": 45
+    },
+    {
+        "id": 64663,
+        "name": "Yatsuomachi-higashikumisaka",
+        "latitude": "36.56667000",
+        "longitude": "137.13333000",
+        "country": "Japan",
+        "country_id": 109
+    },
+    {
+        "id": 64664,
+        "name": "Yatsushiro Shi",
+        "latitude": "32.49063000",
+        "longitude": "130.74972000",
+        "country": "Japan",
+        "country_id": 109
+    },
+    {
+        "id": 52016,
+        "name": "Yatton",
+        "latitude": "51.38839000",
+        "longitude": "-2.82353000",
+        "country": "United Kingdom",
+        "country_id": 232
+    },
+    {
+        "id": 20363,
+        "name": "Yatunpu",
+        "latitude": "26.15500000",
+        "longitude": "109.62667000",
+        "country": "China",
+        "country_id": 45
+    },
+    {
+        "id": 76219,
+        "name": "Yatzachi",
+        "latitude": "17.22588000",
+        "longitude": "-96.22137000",
+        "country": "Mexico",
+        "country_id": 142
+    },
+    {
+        "id": 153626,
+        "name": "Yauco",
+        "latitude": "18.03496400",
+        "longitude": "-66.84989830",
+        "country": "Puerto Rico",
+        "country_id": 178
+    },
+    {
+        "id": 143235,
+        "name": "Yauco",
+        "latitude": "18.03694444",
+        "longitude": "-66.85027778",
+        "country": "United States",
+        "country_id": 233
+    },
+    {
+        "id": 76220,
+        "name": "Yauhquemehcan",
+        "latitude": "19.40697000",
+        "longitude": "-98.18230000",
+        "country": "Mexico",
+        "country_id": 142
+    },
+    {
+        "id": 143236,
+        "name": "Yaurel",
+        "latitude": "18.02694444",
+        "longitude": "-66.05722222",
+        "country": "United States",
+        "country_id": 233
+    },
+    {
+        "id": 76221,
+        "name": "Yautepec",
+        "latitude": "18.88188000",
+        "longitude": "-99.06715000",
+        "country": "Mexico",
+        "country_id": 142
+    },
+    {
+        "id": 81017,
+        "name": "Yauya",
+        "latitude": "-8.98333000",
+        "longitude": "-77.30000000",
+        "country": "Peru",
+        "country_id": 173
+    },
+    {
+        "id": 54372,
+        "name": "Yauyupe",
+        "latitude": "13.74867000",
+        "longitude": "-87.07610000",
+        "country": "Honduras",
+        "country_id": 97
+    },
+    {
+        "id": 134438,
+        "name": "Yaval",
+        "latitude": "21.16772000",
+        "longitude": "75.69762000",
+        "country": "India",
+        "country_id": 101
+    },
+    {
+        "id": 129672,
+        "name": "Yavapai County",
+        "latitude": "34.59988000",
+        "longitude": "-112.55387000",
+        "country": "United States",
+        "country_id": 233
+    },
+    {
+        "id": 21623,
+        "name": "Yavaraté",
+        "latitude": "0.82828000",
+        "longitude": "-69.62959000",
+        "country": "Colombia",
+        "country_id": 48
+    },
+    {
+        "id": 76222,
+        "name": "Yavaros",
+        "latitude": "26.70483000",
+        "longitude": "-109.52103000",
+        "country": "Mexico",
+        "country_id": 142
+    },
+    {
+        "id": 102516,
+        "name": "Yavas",
+        "latitude": "54.41590000",
+        "longitude": "42.84910000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 134427,
+        "name": "Yavatmal",
+        "latitude": "20.15000000",
+        "longitude": "78.35000000",
+        "country": "India",
+        "country_id": 101
+    },
+    {
+        "id": 80552,
+        "name": "Yaviza",
+        "latitude": "8.15835000",
+        "longitude": "-77.69276000",
+        "country": "Panama",
+        "country_id": 170
+    },
+    {
+        "id": 65828,
+        "name": "Yavlenka",
+        "latitude": "54.34525000",
+        "longitude": "68.45740000",
+        "country": "Kazakhstan",
+        "country_id": 112
+    },
+    {
+        "id": 57572,
+        "name": "Yavne’el",
+        "latitude": "32.70619000",
+        "longitude": "35.50435000",
+        "country": "Israel",
+        "country_id": 106
+    },
+    {
+        "id": 57573,
+        "name": "Yavné",
+        "latitude": "31.87808000",
+        "longitude": "34.73983000",
+        "country": "Israel",
+        "country_id": 106
+    },
+    {
+        "id": 110792,
+        "name": "Yavoriv",
+        "latitude": "49.93864000",
+        "longitude": "23.38254000",
+        "country": "Ukraine",
+        "country_id": 230
+    },
+    {
+        "id": 108677,
+        "name": "Yavuzeli",
+        "latitude": "37.31772000",
+        "longitude": "37.56824000",
+        "country": "Turkey",
+        "country_id": 225
+    },
+    {
+        "id": 148253,
+        "name": "Yawata",
+        "latitude": "36.51666667",
+        "longitude": "138.10000000",
+        "country": "Japan",
+        "country_id": 109
+    },
+    {
+        "id": 64665,
+        "name": "Yawata",
+        "latitude": "34.87009000",
+        "longitude": "135.70270000",
+        "country": "Japan",
+        "country_id": 109
+    },
+    {
+        "id": 64666,
+        "name": "Yawata Shi",
+        "latitude": "34.86662000",
+        "longitude": "135.71470000",
+        "country": "Japan",
+        "country_id": 109
+    },
+    {
+        "id": 64667,
+        "name": "Yawatahama-shi",
+        "latitude": "33.46302000",
+        "longitude": "132.42336000",
+        "country": "Japan",
+        "country_id": 109
+    },
+    {
+        "id": 76223,
+        "name": "Yaxcabá",
+        "latitude": "20.54846000",
+        "longitude": "-88.82714000",
+        "country": "Mexico",
+        "country_id": 142
+    },
+    {
+        "id": 76224,
+        "name": "Yaxcopoil",
+        "latitude": "20.74498000",
+        "longitude": "-89.72217000",
+        "country": "Mexico",
+        "country_id": 142
+    },
+    {
+        "id": 76225,
+        "name": "Yaxe",
+        "latitude": "16.72595000",
+        "longitude": "-96.47191000",
+        "country": "Mexico",
+        "country_id": 142
+    },
+    {
+        "id": 76226,
+        "name": "Yaxhachen",
+        "latitude": "20.05177000",
+        "longitude": "-89.56604000",
+        "country": "Mexico",
+        "country_id": 142
+    },
+    {
+        "id": 76227,
+        "name": "Yaxkukul",
+        "latitude": "21.06139000",
+        "longitude": "-89.41932000",
+        "country": "Mexico",
+        "country_id": 142
+    },
+    {
+        "id": 52017,
+        "name": "Yaxley",
+        "latitude": "52.51768000",
+        "longitude": "-0.25852000",
+        "country": "United Kingdom",
+        "country_id": 232
+    },
+    {
+        "id": 102517,
+        "name": "Yaya",
+        "latitude": "56.20600000",
+        "longitude": "86.44000000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 31225,
+        "name": "Yayas de Viajama",
+        "latitude": "18.60710000",
+        "longitude": "-70.92753000",
+        "country": "Dominican Republic",
+        "country_id": 62
+    },
+    {
+        "id": 8195,
+        "name": "Yaycı",
+        "latitude": "38.94052000",
+        "longitude": "45.73244000",
+        "country": "Azerbaijan",
+        "country_id": 16
+    },
+    {
+        "id": 108679,
+        "name": "Yayladağı",
+        "latitude": "35.90250000",
+        "longitude": "36.06272000",
+        "country": "Turkey",
+        "country_id": 225
+    },
+    {
+        "id": 108681,
+        "name": "Yayladere",
+        "latitude": "39.22614000",
+        "longitude": "40.06950000",
+        "country": "Turkey",
+        "country_id": 225
+    },
+    {
+        "id": 130025,
+        "name": "Yaypan",
+        "latitude": "40.37583000",
+        "longitude": "70.81556000",
+        "country": "Uzbekistan",
+        "country_id": 236
+    },
+    {
+        "id": 102518,
+        "name": "Yayva",
+        "latitude": "59.33470000",
+        "longitude": "57.25920000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 135140,
+        "name": "Yazd",
+        "latitude": "31.89722000",
+        "longitude": "54.36750000",
+        "country": "Iran",
+        "country_id": 103
+    },
+    {
+        "id": 150774,
+        "name": "Yazdan Shahr",
+        "latitude": "30.86833240",
+        "longitude": "56.33342680",
+        "country": "Iran",
+        "country_id": 103
+    },
+    {
+        "id": 85767,
+        "name": "Yazman",
+        "latitude": "29.12122000",
+        "longitude": "71.74459000",
+        "country": "Pakistan",
+        "country_id": 167
+    },
+    {
+        "id": 129673,
+        "name": "Yazoo City",
+        "latitude": "32.85513000",
+        "longitude": "-90.40565000",
+        "country": "United States",
+        "country_id": 233
+    },
+    {
+        "id": 129674,
+        "name": "Yazoo County",
+        "latitude": "32.78031000",
+        "longitude": "-90.39642000",
+        "country": "United States",
+        "country_id": 233
+    },
+    {
+        "id": 102519,
+        "name": "Yazykovo",
+        "latitude": "54.29220000",
+        "longitude": "47.38910000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 102520,
+        "name": "Yazykovo",
+        "latitude": "55.21988000",
+        "longitude": "56.13532000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 108684,
+        "name": "Yazıhan",
+        "latitude": "38.59292000",
+        "longitude": "38.17327000",
+        "country": "Turkey",
+        "country_id": 225
+    },
+    {
+        "id": 108687,
+        "name": "Yağlıdere",
+        "latitude": "40.85711000",
+        "longitude": "38.63242000",
+        "country": "Turkey",
+        "country_id": 225
+    },
+    {
+        "id": 3863,
+        "name": "Ybbs an der Donau",
+        "latitude": "48.16667000",
+        "longitude": "15.08333000",
+        "country": "Austria",
+        "country_id": 15
+    },
+    {
+        "id": 3864,
+        "name": "Ybbsitz",
+        "latitude": "47.94745000",
+        "longitude": "14.89180000",
+        "country": "Austria",
+        "country_id": 15
+    },
+    {
+        "id": 89849,
+        "name": "Ybycuí",
+        "latitude": "-26.01667000",
+        "longitude": "-57.05000000",
+        "country": "Paraguay",
+        "country_id": 172
+    },
+    {
+        "id": 48001,
+        "name": "Ychoux",
+        "latitude": "44.32869000",
+        "longitude": "-0.95179000",
+        "country": "France",
+        "country_id": 75
+    },
+    {
+        "id": 48002,
+        "name": "Ydes",
+        "latitude": "45.34722000",
+        "longitude": "2.43727000",
+        "country": "France",
+        "country_id": 75
+    },
+    {
+        "id": 8014,
+        "name": "Yea",
+        "latitude": "-37.21067000",
+        "longitude": "145.42755000",
+        "country": "Australia",
+        "country_id": 14
+    },
+    {
+        "id": 52018,
+        "name": "Yeadon",
+        "latitude": "53.86437000",
+        "longitude": "-1.68743000",
+        "country": "United Kingdom",
+        "country_id": 232
+    },
+    {
+        "id": 129675,
+        "name": "Yeadon",
+        "latitude": "39.93900000",
+        "longitude": "-75.25546000",
+        "country": "United States",
+        "country_id": 233
+    },
+    {
+        "id": 129676,
+        "name": "Yeagertown",
+        "latitude": "40.64313000",
+        "longitude": "-77.58055000",
+        "country": "United States",
+        "country_id": 233
+    },
+    {
+        "id": 52019,
+        "name": "Yealmpton",
+        "latitude": "50.34856000",
+        "longitude": "-3.99877000",
+        "country": "United Kingdom",
+        "country_id": 232
+    },
+    {
+        "id": 20364,
+        "name": "Yebaishou",
+        "latitude": "41.39750000",
+        "longitude": "119.64083000",
+        "country": "China",
+        "country_id": 45
+    },
+    {
+        "id": 85319,
+        "name": "Yeban Norte",
+        "latitude": "17.02195000",
+        "longitude": "121.94194000",
+        "country": "Philippines",
+        "country_id": 174
+    },
+    {
+        "id": 145339,
+        "name": "Yeban Norte",
+        "latitude": "17.02194444",
+        "longitude": "121.94194444",
+        "country": "Philippines",
+        "country_id": 174
+    },
+    {
+        "id": 38428,
+        "name": "Yebes",
+        "latitude": "40.53162000",
+        "longitude": "-3.10782000",
+        "country": "Spain",
+        "country_id": 207
+    },
+    {
+        "id": 38429,
+        "name": "Yebra",
+        "latitude": "40.35702000",
+        "longitude": "-2.96630000",
+        "country": "Spain",
+        "country_id": 207
+    },
+    {
+        "id": 38430,
+        "name": "Yebra de Basa",
+        "latitude": "42.48647000",
+        "longitude": "-0.28178000",
+        "country": "Spain",
+        "country_id": 207
+    },
+    {
+        "id": 76228,
+        "name": "Yecapixteca",
+        "latitude": "18.88230000",
+        "longitude": "-98.90272000",
+        "country": "Mexico",
+        "country_id": 142
+    },
+    {
+        "id": 76229,
+        "name": "Yecapixtla",
+        "latitude": "18.88333000",
+        "longitude": "-98.86500000",
+        "country": "Mexico",
+        "country_id": 142
+    },
+    {
+        "id": 65544,
+        "name": "Yecheon-gun",
+        "latitude": "36.65272000",
+        "longitude": "128.43007000",
+        "country": "South Korea",
+        "country_id": 116
+    },
+    {
+        "id": 38431,
+        "name": "Yecla",
+        "latitude": "38.61365000",
+        "longitude": "-1.11468000",
+        "country": "Spain",
+        "country_id": 207
+    },
+    {
+        "id": 38432,
+        "name": "Yecla de Yeltes",
+        "latitude": "40.95917000",
+        "longitude": "-6.48904000",
+        "country": "Spain",
+        "country_id": 207
+    },
+    {
+        "id": 76230,
+        "name": "Yecuatla",
+        "latitude": "19.86614000",
+        "longitude": "-96.77836000",
+        "country": "Mexico",
+        "country_id": 142
+    },
+    {
+        "id": 108688,
+        "name": "Yedisu",
+        "latitude": "39.43277000",
+        "longitude": "40.53368000",
+        "country": "Turkey",
+        "country_id": 225
+    },
+    {
+        "id": 105963,
+        "name": "Yedogon",
+        "latitude": "54.25490000",
+        "longitude": "100.23850000",
+        "country": "Ukraine",
+        "country_id": 230
+    },
+    {
+        "id": 102521,
+        "name": "Yedrovo",
+        "latitude": "57.91306000",
+        "longitude": "33.62028000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 104820,
+        "name": "Yeed",
+        "latitude": "4.55000000",
+        "longitude": "43.03333000",
+        "country": "Somalia",
+        "country_id": 203
+    },
+    {
+        "id": 8015,
+        "name": "Yeerongpilly",
+        "latitude": "-27.53097000",
+        "longitude": "153.00935000",
+        "country": "Australia",
+        "country_id": 14
+    },
+    {
+        "id": 102522,
+        "name": "Yefimovskiy",
+        "latitude": "59.49639000",
+        "longitude": "34.67222000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 102523,
+        "name": "Yefremov",
+        "latitude": "53.14806000",
+        "longitude": "38.09924000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 147410,
+        "name": "Yeganeh",
+        "latitude": "34.80720000",
+        "longitude": "48.63780000",
+        "country": "Iran",
+        "country_id": 103
+    },
+    {
+        "id": 572,
+        "name": "Yeghegis",
+        "latitude": "39.87231000",
+        "longitude": "45.35010000",
+        "country": "Armenia",
+        "country_id": 12
+    },
+    {
+        "id": 573,
+        "name": "Yeghegnadzor",
+        "latitude": "39.76389000",
+        "longitude": "45.33239000",
+        "country": "Armenia",
+        "country_id": 12
+    },
+    {
+        "id": 574,
+        "name": "Yeghegnavan",
+        "latitude": "39.83893000",
+        "longitude": "44.61951000",
+        "country": "Armenia",
+        "country_id": 12
+    },
+    {
+        "id": 575,
+        "name": "Yeghegnut",
+        "latitude": "40.08893000",
+        "longitude": "44.16669000",
+        "country": "Armenia",
+        "country_id": 12
+    },
+    {
+        "id": 576,
+        "name": "Yeghegnut",
+        "latitude": "40.90302000",
+        "longitude": "44.63155000",
+        "country": "Armenia",
+        "country_id": 12
+    },
+    {
+        "id": 577,
+        "name": "Yeghvard",
+        "latitude": "40.32507000",
+        "longitude": "44.48608000",
+        "country": "Armenia",
+        "country_id": 12
+    },
+    {
+        "id": 102524,
+        "name": "Yegorlykskaya",
+        "latitude": "46.56564000",
+        "longitude": "40.65621000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 102525,
+        "name": "Yegor’yevsk",
+        "latitude": "55.38283000",
+        "longitude": "39.03233000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 102526,
+        "name": "Yegor’yevskiy Rayon",
+        "latitude": "51.75000000",
+        "longitude": "81.00000000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 89850,
+        "name": "Yegros",
+        "latitude": "-26.45000000",
+        "longitude": "-56.40000000",
+        "country": "Paraguay",
+        "country_id": 172
+    },
+    {
+        "id": 76231,
+        "name": "Yehualtepec",
+        "latitude": "18.79518000",
+        "longitude": "-97.66160000",
+        "country": "Mexico",
+        "country_id": 142
+    },
+    {
+        "id": 57574,
+        "name": "Yehud",
+        "latitude": "32.03317000",
+        "longitude": "34.89091000",
+        "country": "Israel",
+        "country_id": 106
+    },
+    {
+        "id": 57575,
+        "name": "Yehud-Monosson",
+        "latitude": "32.02840000",
+        "longitude": "34.87960000",
+        "country": "Israel",
+        "country_id": 106
+    },
+    {
+        "id": 147411,
+        "name": "Yekanabad",
+        "latitude": "34.87360000",
+        "longitude": "48.45420000",
+        "country": "Iran",
+        "country_id": 103
+    },
+    {
+        "id": 102527,
+        "name": "Yekaterinburg",
+        "latitude": "56.85190000",
+        "longitude": "60.61220000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 102528,
+        "name": "Yekaterinoslavka",
+        "latitude": "50.37344000",
+        "longitude": "129.10957000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 102529,
+        "name": "Yekaterinovka",
+        "latitude": "52.05083000",
+        "longitude": "44.34515000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 102530,
+        "name": "Yekaterinovka",
+        "latitude": "42.92525000",
+        "longitude": "133.04922000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 102531,
+        "name": "Yekimovichi",
+        "latitude": "54.11285000",
+        "longitude": "33.29648000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 147412,
+        "name": "Yekleh",
+        "latitude": "34.87777800",
+        "longitude": "49.00666700",
+        "country": "Iran",
+        "country_id": 103
+    },
+    {
+        "id": 102532,
+        "name": "Yelabuga",
+        "latitude": "55.76127000",
+        "longitude": "52.06493000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 102533,
+        "name": "Yelabuzhskiy Rayon",
+        "latitude": "55.83333000",
+        "longitude": "51.83333000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 134429,
+        "name": "Yelahanka",
+        "latitude": "13.10073000",
+        "longitude": "77.59632000",
+        "country": "India",
+        "country_id": 101
+    },
+    {
+        "id": 146939,
+        "name": "Yelan",
+        "latitude": "50.94611111",
+        "longitude": "43.73638889",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 134430,
+        "name": "Yelandur",
+        "latitude": "12.04629000",
+        "longitude": "77.03034000",
+        "country": "India",
+        "country_id": 101
+    },
+    {
+        "id": 102534,
+        "name": "Yelanskiy",
+        "latitude": "56.84190000",
+        "longitude": "62.50140000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 105964,
+        "name": "Yelantsy",
+        "latitude": "52.80286000",
+        "longitude": "106.40466000",
+        "country": "Ukraine",
+        "country_id": 230
+    },
+    {
+        "id": 102535,
+        "name": "Yelan’-Koleno",
+        "latitude": "51.15230000",
+        "longitude": "41.23060000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 102536,
+        "name": "Yelan’-Kolenovskiy",
+        "latitude": "51.16320000",
+        "longitude": "41.15100000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 102537,
+        "name": "Yelat’ma",
+        "latitude": "54.96750000",
+        "longitude": "41.75083000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 134431,
+        "name": "Yelbarga",
+        "latitude": "15.61545000",
+        "longitude": "76.01184000",
+        "country": "India",
+        "country_id": 101
+    },
+    {
+        "id": 8196,
+        "name": "Yelenendorf",
+        "latitude": "40.58584000",
+        "longitude": "46.31890000",
+        "country": "Azerbaijan",
+        "country_id": 16
+    },
+    {
+        "id": 38433,
+        "name": "Yeles",
+        "latitude": "40.12035000",
+        "longitude": "-3.80487000",
+        "country": "Spain",
+        "country_id": 207
+    },
+    {
+        "id": 102538,
+        "name": "Yelets",
+        "latitude": "52.62366000",
+        "longitude": "38.50169000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 102539,
+        "name": "Yeletskiy Rayon",
+        "latitude": "52.58333000",
+        "longitude": "38.50000000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 102540,
+        "name": "Yelizavetinka",
+        "latitude": "51.76732000",
+        "longitude": "59.74245000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 102541,
+        "name": "Yelizavetino",
+        "latitude": "59.49173000",
+        "longitude": "29.78153000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 102542,
+        "name": "Yelizavetinskaya",
+        "latitude": "45.04616000",
+        "longitude": "38.79491000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 102543,
+        "name": "Yelizavetinskoye",
+        "latitude": "45.00722000",
+        "longitude": "43.34944000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 102544,
+        "name": "Yelizovo",
+        "latitude": "53.18909000",
+        "longitude": "158.38135000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 102545,
+        "name": "Yelizovskiy Rayon",
+        "latitude": "53.66667000",
+        "longitude": "159.00000000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 102546,
+        "name": "Yelkhovka",
+        "latitude": "53.86668000",
+        "longitude": "50.28319000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 129677,
+        "name": "Yell County",
+        "latitude": "35.00260000",
+        "longitude": "-93.41125000",
+        "country": "United States",
+        "country_id": 233
+    },
+    {
+        "id": 134432,
+        "name": "Yellandu",
+        "latitude": "17.59064000",
+        "longitude": "80.32146000",
+        "country": "India",
+        "country_id": 101
+    },
+    {
+        "id": 134433,
+        "name": "Yellapur",
+        "latitude": "14.96370000",
+        "longitude": "74.70929000",
+        "country": "India",
+        "country_id": 101
+    },
+    {
+        "id": 129678,
+        "name": "Yellow Medicine County",
+        "latitude": "44.71625000",
+        "longitude": "-95.86836000",
+        "country": "United States",
+        "country_id": 233
+    },
+    {
+        "id": 141848,
+        "name": "Yellow Springs",
+        "latitude": "39.80645000",
+        "longitude": "-83.88687000",
+        "country": "United States",
+        "country_id": 233
+    },
+    {
+        "id": 17221,
+        "name": "Yellowknife",
+        "latitude": "62.45411000",
+        "longitude": "-114.37248000",
+        "country": "Canada",
+        "country_id": 39
+    },
+    {
+        "id": 129679,
+        "name": "Yellowstone County",
+        "latitude": "45.93725000",
+        "longitude": "-108.27435000",
+        "country": "United States",
+        "country_id": 233
+    },
+    {
+        "id": 129680,
+        "name": "Yellville",
+        "latitude": "36.22618000",
+        "longitude": "-92.68489000",
+        "country": "United States",
+        "country_id": 233
+    },
+    {
+        "id": 129681,
+        "name": "Yelm",
+        "latitude": "46.94204000",
+        "longitude": "-122.60596000",
+        "country": "United States",
+        "country_id": 233
+    },
+    {
+        "id": 38434,
+        "name": "Yelo",
+        "latitude": "41.21667000",
+        "longitude": "-2.51667000",
+        "country": "Spain",
+        "country_id": 207
+    },
+    {
+        "id": 102547,
+        "name": "Yelovo",
+        "latitude": "57.05381000",
+        "longitude": "54.92070000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 102548,
+        "name": "Yelshanka",
+        "latitude": "51.81389000",
+        "longitude": "46.39972000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 52020,
+        "name": "Yelverton",
+        "latitude": "50.49290000",
+        "longitude": "-4.08382000",
+        "country": "United Kingdom",
+        "country_id": 232
+    },
+    {
+        "id": 77144,
+        "name": "Yelwa",
+        "latitude": "8.83333000",
+        "longitude": "9.63333000",
+        "country": "Nigeria",
+        "country_id": 161
+    },
+    {
+        "id": 110793,
+        "name": "Yelyzavethradka",
+        "latitude": "48.80381000",
+        "longitude": "32.40460000",
+        "country": "Ukraine",
+        "country_id": 230
+    },
+    {
+        "id": 102549,
+        "name": "Yel’digino",
+        "latitude": "56.11667000",
+        "longitude": "37.81667000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 102550,
+        "name": "Yel’nikovskiy Rayon",
+        "latitude": "54.58333000",
+        "longitude": "43.83333000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 102551,
+        "name": "Yel’nya",
+        "latitude": "54.57864000",
+        "longitude": "33.18373000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 16116,
+        "name": "Yel’sk",
+        "latitude": "51.81410000",
+        "longitude": "29.15220000",
+        "country": "Belarus",
+        "country_id": 21
+    },
+    {
+        "id": 102552,
+        "name": "Yel’tsovskiy Rayon",
+        "latitude": "53.25000000",
+        "longitude": "86.41667000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 38718,
+        "name": "Yem",
+        "latitude": "7.83333000",
+        "longitude": "37.50000000",
+        "country": "Ethiopia",
+        "country_id": 70
+    },
+    {
+        "id": 102553,
+        "name": "Yemanzhelinka",
+        "latitude": "54.80100000",
+        "longitude": "61.29890000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 102554,
+        "name": "Yemanzhelinsk",
+        "latitude": "54.75472000",
+        "longitude": "61.32083000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 110794,
+        "name": "Yemelyanovka",
+        "latitude": "45.53287000",
+        "longitude": "34.89624000",
+        "country": "Ukraine",
+        "country_id": 230
+    },
+    {
+        "id": 102555,
+        "name": "Yemel’yanovo",
+        "latitude": "56.16776000",
+        "longitude": "92.67539000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 102556,
+        "name": "Yemel’yanovskiy Rayon",
+        "latitude": "56.41667000",
+        "longitude": "92.75000000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 102557,
+        "name": "Yemetsk",
+        "latitude": "63.47191000",
+        "longitude": "41.78023000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 149519,
+        "name": "Yemilchyne",
+        "latitude": "50.87083333",
+        "longitude": "27.80277778",
+        "country": "Ukraine",
+        "country_id": 230
+    },
+    {
+        "id": 110795,
+        "name": "Yemil’chyne",
+        "latitude": "50.87349000",
+        "longitude": "27.80604000",
+        "country": "Ukraine",
+        "country_id": 230
+    },
+    {
+        "id": 102558,
+        "name": "Yemtsa",
+        "latitude": "63.07337000",
+        "longitude": "40.33285000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 102559,
+        "name": "Yemva",
+        "latitude": "62.58999000",
+        "longitude": "50.85939000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 77145,
+        "name": "Yenagoa",
+        "latitude": "4.92675000",
+        "longitude": "6.26764000",
+        "country": "Nigeria",
+        "country_id": 161
+    },
+    {
+        "id": 110796,
+        "name": "Yenakiyeve",
+        "latitude": "48.23331000",
+        "longitude": "38.21137000",
+        "country": "Ukraine",
+        "country_id": 230
+    },
+    {
+        "id": 67704,
+        "name": "Yenangyaung",
+        "latitude": "20.46504000",
+        "longitude": "94.87120000",
+        "country": "Myanmar",
+        "country_id": 151
+    },
+    {
+        "id": 8016,
+        "name": "Yenda",
+        "latitude": "-34.24525000",
+        "longitude": "146.20273000",
+        "country": "Australia",
+        "country_id": 14
+    },
+    {
+        "id": 52216,
+        "name": "Yendi",
+        "latitude": "9.44272000",
+        "longitude": "-0.00991000",
+        "country": "Ghana",
+        "country_id": 83
+    },
+    {
+        "id": 104690,
+        "name": "Yengema",
+        "latitude": "8.71441000",
+        "longitude": "-11.17057000",
+        "country": "Sierra Leone",
+        "country_id": 198
+    },
+    {
+        "id": 8197,
+        "name": "Yeni Suraxanı",
+        "latitude": "40.43026000",
+        "longitude": "50.03598000",
+        "country": "Azerbaijan",
+        "country_id": 16
+    },
+    {
+        "id": 108691,
+        "name": "Yenice",
+        "latitude": "39.93083000",
+        "longitude": "27.25806000",
+        "country": "Turkey",
+        "country_id": 225
+    },
+    {
+        "id": 108693,
+        "name": "Yenice",
+        "latitude": "41.19962000",
+        "longitude": "32.33133000",
+        "country": "Turkey",
+        "country_id": 225
+    },
+    {
+        "id": 108697,
+        "name": "Yenifakılı",
+        "latitude": "39.21142000",
+        "longitude": "35.00036000",
+        "country": "Turkey",
+        "country_id": 225
+    },
+    {
+        "id": 108703,
+        "name": "Yenimahalle",
+        "latitude": "39.99043000",
+        "longitude": "32.69555000",
+        "country": "Turkey",
+        "country_id": 225
+    },
+    {
+        "id": 108704,
+        "name": "Yenipazar",
+        "latitude": "37.82332000",
+        "longitude": "28.19573000",
+        "country": "Turkey",
+        "country_id": 225
+    },
+    {
+        "id": 108705,
+        "name": "Yenipazar",
+        "latitude": "40.17833000",
+        "longitude": "30.52000000",
+        "country": "Turkey",
+        "country_id": 225
+    },
+    {
+        "id": 102560,
+        "name": "Yeniseysk",
+        "latitude": "58.44937000",
+        "longitude": "92.17968000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 102561,
+        "name": "Yeniseyskiy Rayon",
+        "latitude": "60.00000000",
+        "longitude": "89.00000000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 108709,
+        "name": "Yeniçağa",
+        "latitude": "40.77115000",
+        "longitude": "32.03375000",
+        "country": "Turkey",
+        "country_id": 225
+    },
+    {
+        "id": 108712,
+        "name": "Yenişarbademli",
+        "latitude": "37.70778000",
+        "longitude": "31.38639000",
+        "country": "Turkey",
+        "country_id": 225
+    },
+    {
+        "id": 108714,
+        "name": "Yenişehir",
+        "latitude": "40.26444000",
+        "longitude": "29.65306000",
+        "country": "Turkey",
+        "country_id": 225
+    },
+    {
+        "id": 108715,
+        "name": "Yenişehir",
+        "latitude": "36.81602000",
+        "longitude": "34.57621000",
+        "country": "Turkey",
+        "country_id": 225
+    },
+    {
+        "id": 108716,
+        "name": "Yenişehir",
+        "latitude": "37.91373000",
+        "longitude": "40.20610000",
+        "country": "Turkey",
+        "country_id": 225
+    },
+    {
+        "id": 48003,
+        "name": "Yenne",
+        "latitude": "45.70420000",
+        "longitude": "5.75795000",
+        "country": "France",
+        "country_id": 75
+    },
+    {
+        "id": 8017,
+        "name": "Yennora",
+        "latitude": "-33.86173000",
+        "longitude": "150.96865000",
+        "country": "Australia",
+        "country_id": 14
+    },
+    {
+        "id": 102562,
+        "name": "Yenotayevka",
+        "latitude": "47.24559000",
+        "longitude": "47.02814000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 65545,
+        "name": "Yeoju-si",
+        "latitude": "37.29562000",
+        "longitude": "127.63668000",
+        "country": "South Korea",
+        "country_id": 116
+    },
+    {
+        "id": 134434,
+        "name": "Yeola",
+        "latitude": "20.04240000",
+        "longitude": "74.48944000",
+        "country": "India",
+        "country_id": 101
+    },
+    {
+        "id": 65546,
+        "name": "Yeoncheon-gun",
+        "latitude": "38.09404000",
+        "longitude": "127.07577000",
+        "country": "South Korea",
+        "country_id": 116
+    },
+    {
+        "id": 65547,
+        "name": "Yeongam",
+        "latitude": "34.80059000",
+        "longitude": "126.69669000",
+        "country": "South Korea",
+        "country_id": 116
+    },
+    {
+        "id": 65548,
+        "name": "Yeongam-gun",
+        "latitude": "34.79790000",
+        "longitude": "126.62651000",
+        "country": "South Korea",
+        "country_id": 116
+    },
+    {
+        "id": 65549,
+        "name": "Yeongcheon-si",
+        "latitude": "36.00000000",
+        "longitude": "129.00000000",
+        "country": "South Korea",
+        "country_id": 116
+    },
+    {
+        "id": 65550,
+        "name": "Yeongdeok-gun",
+        "latitude": "36.48125000",
+        "longitude": "129.31078000",
+        "country": "South Korea",
+        "country_id": 116
+    },
+    {
+        "id": 65551,
+        "name": "Yeongdeungpo-gu",
+        "latitude": "37.52606000",
+        "longitude": "126.90308000",
+        "country": "South Korea",
+        "country_id": 116
+    },
+    {
+        "id": 65552,
+        "name": "Yeongdo-gu",
+        "latitude": "35.07849000",
+        "longitude": "129.06483000",
+        "country": "South Korea",
+        "country_id": 116
+    },
+    {
+        "id": 65553,
+        "name": "Yeongdong",
+        "latitude": "36.17500000",
+        "longitude": "127.77639000",
+        "country": "South Korea",
+        "country_id": 116
+    },
+    {
+        "id": 65554,
+        "name": "Yeongdong-gun",
+        "latitude": "36.21658000",
+        "longitude": "127.79374000",
+        "country": "South Korea",
+        "country_id": 116
+    },
+    {
+        "id": 65555,
+        "name": "Yeonggwang",
+        "latitude": "35.27814000",
+        "longitude": "126.51181000",
+        "country": "South Korea",
+        "country_id": 116
+    },
+    {
+        "id": 65556,
+        "name": "Yeonggwang-gun",
+        "latitude": "35.28711000",
+        "longitude": "126.43616000",
+        "country": "South Korea",
+        "country_id": 116
+    },
+    {
+        "id": 65557,
+        "name": "Yeongju-si",
+        "latitude": "36.87459000",
+        "longitude": "128.58631000",
+        "country": "South Korea",
+        "country_id": 116
+    },
+    {
+        "id": 65558,
+        "name": "Yeongyang-gun",
+        "latitude": "36.69592000",
+        "longitude": "129.14196000",
+        "country": "South Korea",
+        "country_id": 116
+    },
+    {
+        "id": 65559,
+        "name": "Yeonil",
+        "latitude": "35.99526000",
+        "longitude": "129.35162000",
+        "country": "South Korea",
+        "country_id": 116
+    },
+    {
+        "id": 65560,
+        "name": "Yeonsu-gu",
+        "latitude": "37.41911000",
+        "longitude": "126.66489000",
+        "country": "South Korea",
+        "country_id": 116
+    },
+    {
+        "id": 65561,
+        "name": "Yeosu",
+        "latitude": "34.76062000",
+        "longitude": "127.66215000",
+        "country": "South Korea",
+        "country_id": 116
+    },
+    {
+        "id": 52021,
+        "name": "Yeovil",
+        "latitude": "50.94159000",
+        "longitude": "-2.63211000",
+        "country": "United Kingdom",
+        "country_id": 232
+    },
+    {
+        "id": 38435,
+        "name": "Yepes",
+        "latitude": "39.90199000",
+        "longitude": "-3.62517000",
+        "country": "Spain",
+        "country_id": 207
+    },
+    {
+        "id": 102563,
+        "name": "Yepifan’",
+        "latitude": "53.82526000",
+        "longitude": "38.55181000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 53800,
+        "name": "Yepocapa",
+        "latitude": "14.50195000",
+        "longitude": "-90.95396000",
+        "country": "Guatemala",
+        "country_id": 90
+    },
+    {
+        "id": 8018,
+        "name": "Yeppoon",
+        "latitude": "-23.12683000",
+        "longitude": "150.74406000",
+        "country": "Australia",
+        "country_id": 14
+    },
+    {
+        "id": 8019,
+        "name": "Yeppoon city centre",
+        "latitude": "-23.12950000",
+        "longitude": "150.73639000",
+        "country": "Australia",
+        "country_id": 14
+    },
+    {
+        "id": 65829,
+        "name": "Yeraliyev",
+        "latitude": "43.18032000",
+        "longitude": "51.68116000",
+        "country": "Kazakhstan",
+        "country_id": 112
+    },
+    {
+        "id": 578,
+        "name": "Yeranos",
+        "latitude": "40.20428000",
+        "longitude": "45.19209000",
+        "country": "Armenia",
+        "country_id": 12
+    },
+    {
+        "id": 579,
+        "name": "Yeraskhahun",
+        "latitude": "40.07233000",
+        "longitude": "44.21948000",
+        "country": "Armenia",
+        "country_id": 12
+    },
+    {
+        "id": 580,
+        "name": "Yerazgavors",
+        "latitude": "40.69505000",
+        "longitude": "43.74722000",
+        "country": "Armenia",
+        "country_id": 12
+    },
+    {
+        "id": 1596,
+        "name": "Yerba Buena",
+        "latitude": "-26.81667000",
+        "longitude": "-65.31667000",
+        "country": "Argentina",
+        "country_id": 11
+    },
+    {
+        "id": 76232,
+        "name": "Yerbabuena",
+        "latitude": "21.68586000",
+        "longitude": "-100.76728000",
+        "country": "Mexico",
+        "country_id": 142
+    },
+    {
+        "id": 76233,
+        "name": "Yerbabuena",
+        "latitude": "20.96319000",
+        "longitude": "-101.27448000",
+        "country": "Mexico",
+        "country_id": 142
+    },
+    {
+        "id": 148451,
+        "name": "Yerbas Buenas",
+        "latitude": "-35.75000000",
+        "longitude": "-71.58333333",
+        "country": "Chile",
+        "country_id": 44
+    },
+    {
+        "id": 105965,
+        "name": "Yerbogachen",
+        "latitude": "61.28016000",
+        "longitude": "108.01535000",
+        "country": "Ukraine",
+        "country_id": 230
+    },
+    {
+        "id": 581,
+        "name": "Yerevan",
+        "latitude": "40.18111000",
+        "longitude": "44.51361000",
+        "country": "Armenia",
+        "country_id": 12
+    },
+    {
+        "id": 129682,
+        "name": "Yerington",
+        "latitude": "38.98575000",
+        "longitude": "-119.16293000",
+        "country": "United States",
+        "country_id": 233
+    },
+    {
+        "id": 110797,
+        "name": "Yerky",
+        "latitude": "48.99062000",
+        "longitude": "30.98818000",
+        "country": "Ukraine",
+        "country_id": 230
+    },
+    {
+        "id": 108718,
+        "name": "Yerköy",
+        "latitude": "39.63806000",
+        "longitude": "34.46722000",
+        "country": "Turkey",
+        "country_id": 225
+    },
+    {
+        "id": 110798,
+        "name": "Yermakovo",
+        "latitude": "45.85364000",
+        "longitude": "34.48644000",
+        "country": "Ukraine",
+        "country_id": 230
+    },
+    {
+        "id": 102564,
+        "name": "Yermakovskoye",
+        "latitude": "53.27545000",
+        "longitude": "92.40021000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 102565,
+        "name": "Yermekeyevo",
+        "latitude": "54.07614000",
+        "longitude": "53.67125000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 65830,
+        "name": "Yermentau",
+        "latitude": "51.62364000",
+        "longitude": "73.10265000",
+        "country": "Kazakhstan",
+        "country_id": 112
+    },
+    {
+        "id": 102566,
+        "name": "Yermish’",
+        "latitude": "54.76778000",
+        "longitude": "42.27111000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 102567,
+        "name": "Yermolayevo",
+        "latitude": "52.71667000",
+        "longitude": "55.80000000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 102568,
+        "name": "Yermolino",
+        "latitude": "55.19489000",
+        "longitude": "36.59513000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 102569,
+        "name": "Yermolino",
+        "latitude": "56.14887000",
+        "longitude": "37.49112000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 152650,
+        "name": "Yernes y Tameza",
+        "latitude": "0.00000000",
+        "longitude": "0.00000000",
+        "country": "Spain",
+        "country_id": 207
+    },
+    {
+        "id": 102570,
+        "name": "Yerofey Pavlovich",
+        "latitude": "53.96305000",
+        "longitude": "121.95805000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 8020,
+        "name": "Yeronga",
+        "latitude": "-27.51571000",
+        "longitude": "153.01642000",
+        "country": "Australia",
+        "country_id": 14
+    },
+    {
+        "id": 57576,
+        "name": "Yeroẖam",
+        "latitude": "30.98822000",
+        "longitude": "34.93176000",
+        "country": "Israel",
+        "country_id": 106
+    },
+    {
+        "id": 48004,
+        "name": "Yerres",
+        "latitude": "48.71785000",
+        "longitude": "2.49338000",
+        "country": "France",
+        "country_id": 75
+    },
+    {
+        "id": 38436,
+        "name": "Yerri",
+        "latitude": "42.70161000",
+        "longitude": "-1.93806000",
+        "country": "Spain",
+        "country_id": 207
+    },
+    {
+        "id": 8021,
+        "name": "Yerrinbool",
+        "latitude": "-34.36884000",
+        "longitude": "150.53848000",
+        "country": "Australia",
+        "country_id": 14
+    },
+    {
+        "id": 78989,
+        "name": "Yerseke",
+        "latitude": "51.49250000",
+        "longitude": "4.05000000",
+        "country": "Netherlands",
+        "country_id": 156
+    },
+    {
+        "id": 102571,
+        "name": "Yershichi",
+        "latitude": "53.67250000",
+        "longitude": "32.75417000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 102572,
+        "name": "Yershov",
+        "latitude": "51.35130000",
+        "longitude": "48.27660000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 102573,
+        "name": "Yershovo",
+        "latitude": "55.76911000",
+        "longitude": "36.85929000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 102574,
+        "name": "Yertarskiy",
+        "latitude": "56.79016000",
+        "longitude": "64.29952000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 102575,
+        "name": "Yertsevo",
+        "latitude": "60.79660000",
+        "longitude": "40.08600000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 48005,
+        "name": "Yerville",
+        "latitude": "49.66720000",
+        "longitude": "0.89594000",
+        "country": "France",
+        "country_id": 75
+    },
+    {
+        "id": 38437,
+        "name": "Yesa",
+        "latitude": "42.62025000",
+        "longitude": "-1.20360000",
+        "country": "Spain",
+        "country_id": 207
+    },
+    {
+        "id": 152967,
+        "name": "Yesa La",
+        "latitude": "0.00000000",
+        "longitude": "0.00000000",
+        "country": "Spain",
+        "country_id": 207
+    },
+    {
+        "id": 65562,
+        "name": "Yesan",
+        "latitude": "36.67756000",
+        "longitude": "126.84272000",
+        "country": "South Korea",
+        "country_id": 116
+    },
+    {
+        "id": 65563,
+        "name": "Yesan-gun",
+        "latitude": "36.68218000",
+        "longitude": "126.79592000",
+        "country": "South Korea",
+        "country_id": 116
+    },
+    {
+        "id": 147413,
+        "name": "Yeserlu",
+        "latitude": "35.06110000",
+        "longitude": "48.78360000",
+        "country": "Iran",
+        "country_id": 103
+    },
+    {
+        "id": 110799,
+        "name": "Yesman’",
+        "latitude": "51.77006000",
+        "longitude": "34.06729000",
+        "country": "Ukraine",
+        "country_id": 230
+    },
+    {
+        "id": 102576,
+        "name": "Yessentuki",
+        "latitude": "44.04444000",
+        "longitude": "42.86056000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 102577,
+        "name": "Yessentukskaya",
+        "latitude": "44.03280000",
+        "longitude": "42.88130000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 152287,
+        "name": "Yeste",
+        "latitude": "0.00000000",
+        "longitude": "0.00000000",
+        "country": "Spain",
+        "country_id": 207
+    },
+    {
+        "id": 102578,
+        "name": "Yetkul’",
+        "latitude": "54.82210000",
+        "longitude": "61.58800000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 76234,
+        "name": "Yetla",
+        "latitude": "16.99355000",
+        "longitude": "-100.00328000",
+        "country": "Mexico",
+        "country_id": 142
+    },
+    {
+        "id": 76235,
+        "name": "Yetla de Juárez",
+        "latitude": "17.66559000",
+        "longitude": "-97.99124000",
+        "country": "Mexico",
+        "country_id": 142
+    },
+    {
+        "id": 76236,
+        "name": "Yetlancingo",
+        "latitude": "17.72130000",
+        "longitude": "-99.11538000",
+        "country": "Mexico",
+        "country_id": 142
+    },
+    {
+        "id": 52022,
+        "name": "Yetminster",
+        "latitude": "50.89579000",
+        "longitude": "-2.57959000",
+        "country": "United Kingdom",
+        "country_id": 232
+    },
+    {
+        "id": 8198,
+        "name": "Yevlakh",
+        "latitude": "40.61832000",
+        "longitude": "47.15014000",
+        "country": "Azerbaijan",
+        "country_id": 16
+    },
+    {
+        "id": 110800,
+        "name": "Yevpatoriya",
+        "latitude": "45.20091000",
+        "longitude": "33.36655000",
+        "country": "Ukraine",
+        "country_id": 230
+    },
+    {
+        "id": 76237,
+        "name": "Yextla",
+        "latitude": "17.60446000",
+        "longitude": "-99.93446000",
+        "country": "Mexico",
+        "country_id": 142
+    },
+    {
+        "id": 102579,
+        "name": "Yeysk",
+        "latitude": "46.70550000",
+        "longitude": "38.27390000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 102580,
+        "name": "Yeyskoye Ukrepleniye",
+        "latitude": "46.70630000",
+        "longitude": "38.61210000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 108720,
+        "name": "Yeşilhisar",
+        "latitude": "38.33475000",
+        "longitude": "35.11795000",
+        "country": "Turkey",
+        "country_id": 225
+    },
+    {
+        "id": 108724,
+        "name": "Yeşilli",
+        "latitude": "37.33813000",
+        "longitude": "40.81739000",
+        "country": "Turkey",
+        "country_id": 225
+    },
+    {
+        "id": 108726,
+        "name": "Yeşilova",
+        "latitude": "37.50806000",
+        "longitude": "29.75472000",
+        "country": "Turkey",
+        "country_id": 225
+    },
+    {
+        "id": 108728,
+        "name": "Yeşilyurt",
+        "latitude": "38.29602000",
+        "longitude": "38.24526000",
+        "country": "Turkey",
+        "country_id": 225
+    },
+    {
+        "id": 108729,
+        "name": "Yeşilyurt",
+        "latitude": "39.99916000",
+        "longitude": "36.23479000",
+        "country": "Turkey",
+        "country_id": 225
+    },
+    {
+        "id": 48006,
+        "name": "Yffiniac",
+        "latitude": "48.48428000",
+        "longitude": "-2.67647000",
+        "country": "France",
+        "country_id": 75
+    },
+    {
+        "id": 89851,
+        "name": "Ygatimi",
+        "latitude": "-24.12371000",
+        "longitude": "-55.64418000",
+        "country": "Paraguay",
+        "country_id": 172
+    },
+    {
+        "id": 48007,
+        "name": "Ygos-Saint-Saturnin",
+        "latitude": "43.97651000",
+        "longitude": "-0.73780000",
+        "country": "France",
+        "country_id": 75
+    },
+    {
+        "id": 89852,
+        "name": "Yguazú",
+        "latitude": "-25.46187000",
+        "longitude": "-55.00007000",
+        "country": "Paraguay",
+        "country_id": 172
+    },
+    {
+        "id": 89853,
+        "name": "Yhú",
+        "latitude": "-25.05784000",
+        "longitude": "-55.92267000",
+        "country": "Paraguay",
+        "country_id": 172
+    },
+    {
+        "id": 76238,
+        "name": "Yibeljoj",
+        "latitude": "16.95750000",
+        "longitude": "-92.50361000",
+        "country": "Mexico",
+        "country_id": 142
+    },
+    {
+        "id": 20365,
+        "name": "Yibin",
+        "latitude": "28.76667000",
+        "longitude": "104.62383000",
+        "country": "China",
+        "country_id": 45
+    },
+    {
+        "id": 20366,
+        "name": "Yichang",
+        "latitude": "30.71444000",
+        "longitude": "111.28472000",
+        "country": "China",
+        "country_id": 45
+    },
+    {
+        "id": 20367,
+        "name": "Yicheng",
+        "latitude": "31.70472000",
+        "longitude": "112.25611000",
+        "country": "China",
+        "country_id": 45
+    },
+    {
+        "id": 20368,
+        "name": "Yicheng",
+        "latitude": "31.36059000",
+        "longitude": "119.82016000",
+        "country": "China",
+        "country_id": 45
+    },
+    {
+        "id": 20369,
+        "name": "Yichun",
+        "latitude": "27.83333000",
+        "longitude": "114.40000000",
+        "country": "China",
+        "country_id": 45
+    },
+    {
+        "id": 20370,
+        "name": "Yichun",
+        "latitude": "47.72143000",
+        "longitude": "128.87529000",
+        "country": "China",
+        "country_id": 45
+    },
+    {
+        "id": 20371,
+        "name": "Yigou",
+        "latitude": "35.81139000",
+        "longitude": "114.31667000",
+        "country": "China",
+        "country_id": 45
+    },
+    {
+        "id": 20372,
+        "name": "Yilan",
+        "latitude": "46.31618000",
+        "longitude": "129.55455000",
+        "country": "China",
+        "country_id": 45
+    },
+    {
+        "id": 109037,
+        "name": "Yilan",
+        "latitude": "24.54250000",
+        "longitude": "121.63361000",
+        "country": "Taiwan",
+        "country_id": 216
+    },
+    {
+        "id": 8022,
+        "name": "Yilgarn",
+        "latitude": "-30.90938000",
+        "longitude": "119.25881000",
+        "country": "Australia",
+        "country_id": 14
+    },
+    {
+        "id": 20373,
+        "name": "Yima",
+        "latitude": "34.73806000",
+        "longitude": "111.88389000",
+        "country": "China",
+        "country_id": 45
+    },
+    {
+        "id": 53354,
+        "name": "Yimnón",
+        "latitude": "38.44048000",
+        "longitude": "23.88400000",
+        "country": "Greece",
+        "country_id": 85
+    },
+    {
+        "id": 20374,
+        "name": "Yinchuan",
+        "latitude": "38.46806000",
+        "longitude": "106.27306000",
+        "country": "China",
+        "country_id": 45
+    },
+    {
+        "id": 20375,
+        "name": "Yingcheng",
+        "latitude": "24.16588000",
+        "longitude": "113.41267000",
+        "country": "China",
+        "country_id": 45
+    },
+    {
+        "id": 20376,
+        "name": "Yingchuan",
+        "latitude": "34.16278000",
+        "longitude": "113.46389000",
+        "country": "China",
+        "country_id": 45
+    },
+    {
+        "id": 20377,
+        "name": "Yingdu",
+        "latitude": "24.97167000",
+        "longitude": "118.24417000",
+        "country": "China",
+        "country_id": 45
+    },
+    {
+        "id": 20378,
+        "name": "Yingkou",
+        "latitude": "40.63897000",
+        "longitude": "122.24762000",
+        "country": "China",
+        "country_id": 45
+    },
+    {
+        "id": 20379,
+        "name": "Yinglin",
+        "latitude": "24.63222000",
+        "longitude": "118.58056000",
+        "country": "China",
+        "country_id": 45
+    },
+    {
+        "id": 20380,
+        "name": "Yingshang Chengguanzhen",
+        "latitude": "32.62945000",
+        "longitude": "116.27013000",
+        "country": "China",
+        "country_id": 45
+    },
+    {
+        "id": 149208,
+        "name": "Yinliu",
+        "latitude": "39.98349000",
+        "longitude": "117.39904000",
+        "country": "China",
+        "country_id": 45
+    },
+    {
+        "id": 20381,
+        "name": "Yinzhu",
+        "latitude": "35.87861000",
+        "longitude": "119.97528000",
+        "country": "China",
+        "country_id": 45
+    },
+    {
+        "id": 38719,
+        "name": "Yirga ‘Alem",
+        "latitude": "6.75000000",
+        "longitude": "38.41667000",
+        "country": "Ethiopia",
+        "country_id": 70
+    },
+    {
+        "id": 104834,
+        "name": "Yirol",
+        "latitude": "6.55250000",
+        "longitude": "30.49806000",
+        "country": "South Sudan",
+        "country_id": 206
+    },
+    {
+        "id": 20382,
+        "name": "Yishui",
+        "latitude": "35.78472000",
+        "longitude": "118.62806000",
+        "country": "China",
+        "country_id": 45
+    },
+    {
+        "id": 153470,
+        "name": "Yishun",
+        "latitude": "1.42930000",
+        "longitude": "103.83550000",
+        "country": "Singapore",
+        "country_id": 199
+    },
+    {
+        "id": 20383,
+        "name": "Yiwu",
+        "latitude": "29.31506000",
+        "longitude": "120.07676000",
+        "country": "China",
+        "country_id": 45
+    },
+    {
+        "id": 149209,
+        "name": "Yixingfu",
+        "latitude": "39.19917000",
+        "longitude": "117.21139000",
+        "country": "China",
+        "country_id": 45
+    },
+    {
+        "id": 20384,
+        "name": "Yiyang",
+        "latitude": "28.58917000",
+        "longitude": "112.32833000",
+        "country": "China",
+        "country_id": 45
+    },
+    {
+        "id": 110801,
+        "name": "Yizhivtsi",
+        "latitude": "48.03962000",
+        "longitude": "25.66232000",
+        "country": "Ukraine",
+        "country_id": 230
+    },
+    {
+        "id": 39121,
+        "name": "Yli-Ii",
+        "latitude": "65.37181000",
+        "longitude": "25.84580000",
+        "country": "Finland",
+        "country_id": 74
+    },
+    {
+        "id": 39122,
+        "name": "Ylihärmä",
+        "latitude": "63.15000000",
+        "longitude": "22.78333000",
+        "country": "Finland",
+        "country_id": 74
+    },
+    {
+        "id": 39123,
+        "name": "Ylikiiminki",
+        "latitude": "65.08333000",
+        "longitude": "26.25000000",
+        "country": "Finland",
+        "country_id": 74
+    },
+    {
+        "id": 39124,
+        "name": "Ylistaro",
+        "latitude": "62.93958000",
+        "longitude": "22.51306000",
+        "country": "Finland",
+        "country_id": 74
+    },
+    {
+        "id": 39125,
+        "name": "Ylitornio",
+        "latitude": "66.30893000",
+        "longitude": "23.67734000",
+        "country": "Finland",
+        "country_id": 74
+    },
+    {
+        "id": 39126,
+        "name": "Ylivieska",
+        "latitude": "64.08333000",
+        "longitude": "24.55000000",
+        "country": "Finland",
+        "country_id": 74
+    },
+    {
+        "id": 39127,
+        "name": "Ylämaa",
+        "latitude": "60.80000000",
+        "longitude": "28.00000000",
+        "country": "Finland",
+        "country_id": 74
+    },
+    {
+        "id": 39128,
+        "name": "Yläne",
+        "latitude": "60.88333000",
+        "longitude": "22.41667000",
+        "country": "Finland",
+        "country_id": 74
+    },
+    {
+        "id": 153348,
+        "name": "Ylöjärvi",
+        "latitude": "61.55000000",
+        "longitude": "23.58333333",
+        "country": "Finland",
+        "country_id": 74
+    },
+    {
+        "id": 48008,
+        "name": "Ymare",
+        "latitude": "49.35060000",
+        "longitude": "1.17938000",
+        "country": "France",
+        "country_id": 75
+    },
+    {
+        "id": 53355,
+        "name": "Ymittos",
+        "latitude": "37.95342000",
+        "longitude": "23.74897000",
+        "country": "Greece",
+        "country_id": 85
+    },
+    {
+        "id": 52023,
+        "name": "Ynysybwl",
+        "latitude": "51.63922000",
+        "longitude": "-3.36036000",
+        "country": "United Kingdom",
+        "country_id": 232
+    },
+    {
+        "id": 129683,
+        "name": "Yoakum",
+        "latitude": "29.28775000",
+        "longitude": "-97.15193000",
+        "country": "United States",
+        "country_id": 233
+    },
+    {
+        "id": 129684,
+        "name": "Yoakum County",
+        "latitude": "33.17297000",
+        "longitude": "-102.82780000",
+        "country": "United States",
+        "country_id": 233
+    },
+    {
+        "id": 76239,
+        "name": "Yobain",
+        "latitude": "21.23435000",
+        "longitude": "-89.11488000",
+        "country": "Mexico",
+        "country_id": 142
+    },
+    {
+        "id": 54373,
+        "name": "Yocón",
+        "latitude": "14.95000000",
+        "longitude": "-86.82000000",
+        "country": "Honduras",
+        "country_id": 97
+    },
+    {
+        "id": 129685,
+        "name": "Yoe",
+        "latitude": "39.90899000",
+        "longitude": "-76.63691000",
+        "country": "United States",
+        "country_id": 233
+    },
+    {
+        "id": 57061,
+        "name": "Yogyakarta",
+        "latitude": "-7.80139000",
+        "longitude": "110.36472000",
+        "country": "Indonesia",
+        "country_id": 102
+    },
+    {
+        "id": 64668,
+        "name": "Yoichi",
+        "latitude": "43.20389000",
+        "longitude": "140.77028000",
+        "country": "Japan",
+        "country_id": 109
+    },
+    {
+        "id": 19267,
+        "name": "Yokadouma",
+        "latitude": "3.51667000",
+        "longitude": "15.05000000",
+        "country": "Cameroon",
+        "country_id": 38
+    },
+    {
+        "id": 8023,
+        "name": "Yokine",
+        "latitude": "-31.90113000",
+        "longitude": "115.85319000",
+        "country": "Australia",
+        "country_id": 14
+    },
+    {
+        "id": 64669,
+        "name": "Yokkaichi-shi",
+        "latitude": "34.96475000",
+        "longitude": "136.62443000",
+        "country": "Japan",
+        "country_id": 109
+    },
+    {
+        "id": 19268,
+        "name": "Yoko",
+        "latitude": "5.53333000",
+        "longitude": "12.31667000",
+        "country": "Cameroon",
+        "country_id": 38
+    },
+    {
+        "id": 64670,
+        "name": "Yokohama",
+        "latitude": "35.43333000",
+        "longitude": "139.65000000",
+        "country": "Japan",
+        "country_id": 109
+    },
+    {
+        "id": 64671,
+        "name": "Yokohama Shi",
+        "latitude": "35.46225000",
+        "longitude": "139.57645000",
+        "country": "Japan",
+        "country_id": 109
+    },
+    {
+        "id": 64672,
+        "name": "Yokosuka",
+        "latitude": "35.28361000",
+        "longitude": "139.66722000",
+        "country": "Japan",
+        "country_id": 109
+    },
+    {
+        "id": 64673,
+        "name": "Yokosuka Shi",
+        "latitude": "35.24985000",
+        "longitude": "139.66033000",
+        "country": "Japan",
+        "country_id": 109
+    },
+    {
+        "id": 64674,
+        "name": "Yokote",
+        "latitude": "39.31691000",
+        "longitude": "140.55034000",
+        "country": "Japan",
+        "country_id": 109
+    },
+    {
+        "id": 64675,
+        "name": "Yokote-shi",
+        "latitude": "39.28369000",
+        "longitude": "140.54432000",
+        "country": "Japan",
+        "country_id": 109
+    },
+    {
+        "id": 134435,
+        "name": "Yol",
+        "latitude": "32.16423000",
+        "longitude": "76.19622000",
+        "country": "India",
+        "country_id": 101
+    },
+    {
+        "id": 77146,
+        "name": "Yola",
+        "latitude": "9.20839000",
+        "longitude": "12.48146000",
+        "country": "Nigeria",
+        "country_id": 161
+    },
+    {
+        "id": 129686,
+        "name": "Yolo County",
+        "latitude": "38.68665000",
+        "longitude": "-121.90162000",
+        "country": "United States",
+        "country_id": 233
+    },
+    {
+        "id": 21624,
+        "name": "Yolombó",
+        "latitude": "6.66569000",
+        "longitude": "-74.99120000",
+        "country": "Colombia",
+        "country_id": 48
+    },
+    {
+        "id": 76241,
+        "name": "Yolotepec",
+        "latitude": "20.38767000",
+        "longitude": "-99.07307000",
+        "country": "Mexico",
+        "country_id": 142
+    },
+    {
+        "id": 76242,
+        "name": "Yoloxóchitl",
+        "latitude": "16.81605000",
+        "longitude": "-98.68627000",
+        "country": "Mexico",
+        "country_id": 142
+    },
+    {
+        "id": 106908,
+        "name": "Yolöten",
+        "latitude": "37.29886000",
+        "longitude": "62.35975000",
+        "country": "Turkmenistan",
+        "country_id": 226
+    },
+    {
+        "id": 52373,
+        "name": "Yomou",
+        "latitude": "7.50000000",
+        "longitude": "-9.16667000",
+        "country": "Guinea",
+        "country_id": 92
+    },
+    {
+        "id": 108733,
+        "name": "Yomra",
+        "latitude": "40.95326000",
+        "longitude": "39.85546000",
+        "country": "Turkey",
+        "country_id": 225
+    },
+    {
+        "id": 64676,
+        "name": "Yonago Shi",
+        "latitude": "35.43486000",
+        "longitude": "133.35873000",
+        "country": "Japan",
+        "country_id": 109
+    },
+    {
+        "id": 64677,
+        "name": "Yonakuni",
+        "latitude": "24.46667000",
+        "longitude": "123.00000000",
+        "country": "Japan",
+        "country_id": 109
+    },
+    {
+        "id": 129687,
+        "name": "Yoncalla",
+        "latitude": "43.59845000",
+        "longitude": "-123.28342000",
+        "country": "United States",
+        "country_id": 233
+    },
+    {
+        "id": 21625,
+        "name": "Yondó",
+        "latitude": "6.90738000",
+        "longitude": "-74.17686000",
+        "country": "Colombia",
+        "country_id": 48
+    },
+    {
+        "id": 64678,
+        "name": "Yonedacho Sendo",
+        "latitude": "34.77560000",
+        "longitude": "134.82551000",
+        "country": "Japan",
+        "country_id": 109
+    },
+    {
+        "id": 64679,
+        "name": "Yonezawa",
+        "latitude": "37.91000000",
+        "longitude": "140.11667000",
+        "country": "Japan",
+        "country_id": 109
+    },
+    {
+        "id": 64680,
+        "name": "Yonezawa Shi",
+        "latitude": "37.84998000",
+        "longitude": "140.12160000",
+        "country": "Japan",
+        "country_id": 109
+    },
+    {
+        "id": 76587,
+        "name": "Yong Peng",
+        "latitude": "2.01360000",
+        "longitude": "103.06590000",
+        "country": "Malaysia",
+        "country_id": 132
+    },
+    {
+        "id": 20385,
+        "name": "Yongchuan",
+        "latitude": "29.35376000",
+        "longitude": "105.89392000",
+        "country": "China",
+        "country_id": 45
+    },
+    {
+        "id": 20386,
+        "name": "Yongfeng",
+        "latitude": "27.42829000",
+        "longitude": "112.18338000",
+        "country": "China",
+        "country_id": 45
+    },
+    {
+        "id": 65253,
+        "name": "Yonggang-ŭp",
+        "latitude": "38.85611000",
+        "longitude": "125.42444000",
+        "country": "North Korea",
+        "country_id": 115
+    },
+    {
+        "id": 65564,
+        "name": "Yongin-si",
+        "latitude": "37.23825000",
+        "longitude": "127.17795000",
+        "country": "South Korea",
+        "country_id": 116
+    },
+    {
+        "id": 20387,
+        "name": "Yongning",
+        "latitude": "24.68000000",
+        "longitude": "118.69000000",
+        "country": "China",
+        "country_id": 45
+    },
+    {
+        "id": 65565,
+        "name": "Yongsan-dong",
+        "latitude": "37.54450000",
+        "longitude": "126.98370000",
+        "country": "South Korea",
+        "country_id": 116
+    },
+    {
+        "id": 65566,
+        "name": "Yongsan-gu",
+        "latitude": "37.53391000",
+        "longitude": "126.97750000",
+        "country": "South Korea",
+        "country_id": 116
+    },
+    {
+        "id": 20388,
+        "name": "Yongzhou",
+        "latitude": "26.44014000",
+        "longitude": "111.60290000",
+        "country": "China",
+        "country_id": 45
+    },
+    {
+        "id": 104691,
+        "name": "Yonibana",
+        "latitude": "8.44347000",
+        "longitude": "-12.23929000",
+        "country": "Sierra Leone",
+        "country_id": 198
+    },
+    {
+        "id": 129688,
+        "name": "Yonkers",
+        "latitude": "40.93121000",
+        "longitude": "-73.89875000",
+        "country": "United States",
+        "country_id": 233
+    },
+    {
+        "id": 64681,
+        "name": "Yono",
+        "latitude": "35.88333000",
+        "longitude": "139.63333000",
+        "country": "Japan",
+        "country_id": 109
+    },
+    {
+        "id": 8024,
+        "name": "Yoogali",
+        "latitude": "-34.29944000",
+        "longitude": "146.08443000",
+        "country": "Australia",
+        "country_id": 14
+    },
+    {
+        "id": 85320,
+        "name": "Yook",
+        "latitude": "13.22608000",
+        "longitude": "121.96400000",
+        "country": "Philippines",
+        "country_id": 174
+    },
+    {
+        "id": 21626,
+        "name": "Yopal",
+        "latitude": "5.33775000",
+        "longitude": "-72.39586000",
+        "country": "Colombia",
+        "country_id": 48
+    },
+    {
+        "id": 76243,
+        "name": "Yopi",
+        "latitude": "19.82667000",
+        "longitude": "-97.38028000",
+        "country": "Mexico",
+        "country_id": 142
+    },
+    {
+        "id": 129689,
+        "name": "Yorba Linda",
+        "latitude": "33.88863000",
+        "longitude": "-117.81311000",
+        "country": "United States",
+        "country_id": 233
+    },
+    {
+        "id": 64682,
+        "name": "Yorii",
+        "latitude": "36.11567000",
+        "longitude": "139.19429000",
+        "country": "Japan",
+        "country_id": 109
+    },
+    {
+        "id": 54374,
+        "name": "Yorito",
+        "latitude": "15.06667000",
+        "longitude": "-87.28333000",
+        "country": "Honduras",
+        "country_id": 97
+    },
+    {
+        "id": 8025,
+        "name": "York",
+        "latitude": "-31.88809000",
+        "longitude": "116.76780000",
+        "country": "Australia",
+        "country_id": 14
+    },
+    {
+        "id": 17222,
+        "name": "York",
+        "latitude": "44.00011000",
+        "longitude": "-79.46632000",
+        "country": "Canada",
+        "country_id": 39
+    },
+    {
+        "id": 63125,
+        "name": "York",
+        "latitude": "17.92849000",
+        "longitude": "-76.43983000",
+        "country": "Jamaica",
+        "country_id": 108
+    },
+    {
+        "id": 52024,
+        "name": "York",
+        "latitude": "53.95763000",
+        "longitude": "-1.08271000",
+        "country": "United Kingdom",
+        "country_id": 232
+    },
+    {
+        "id": 129690,
+        "name": "York",
+        "latitude": "32.48625000",
+        "longitude": "-88.29642000",
+        "country": "United States",
+        "country_id": 233
+    },
+    {
+        "id": 129691,
+        "name": "York",
+        "latitude": "34.99430000",
+        "longitude": "-81.24202000",
+        "country": "United States",
+        "country_id": 233
+    },
+    {
+        "id": 129692,
+        "name": "York",
+        "latitude": "39.96260000",
+        "longitude": "-76.72774000",
+        "country": "United States",
+        "country_id": 233
+    },
+    {
+        "id": 129693,
+        "name": "York",
+        "latitude": "40.86807000",
+        "longitude": "-97.59200000",
+        "country": "United States",
+        "country_id": 233
+    },
+    {
+        "id": 129694,
+        "name": "York Beach",
+        "latitude": "43.17148000",
+        "longitude": "-70.60894000",
+        "country": "United States",
+        "country_id": 233
+    },
+    {
+        "id": 63126,
+        "name": "York Castle",
+        "latitude": "18.27515000",
+        "longitude": "-77.22923000",
+        "country": "Jamaica",
+        "country_id": 108
+    },
+    {
+        "id": 129695,
+        "name": "York County",
+        "latitude": "34.97475000",
+        "longitude": "-81.18442000",
+        "country": "United States",
+        "country_id": 233
+    },
+    {
+        "id": 129696,
+        "name": "York County",
+        "latitude": "37.22541000",
+        "longitude": "-76.52046000",
+        "country": "United States",
+        "country_id": 233
+    },
+    {
+        "id": 129697,
+        "name": "York County",
+        "latitude": "43.42923000",
+        "longitude": "-70.67015000",
+        "country": "United States",
+        "country_id": 233
+    },
+    {
+        "id": 129698,
+        "name": "York County",
+        "latitude": "40.87275000",
+        "longitude": "-97.59711000",
+        "country": "United States",
+        "country_id": 233
+    },
+    {
+        "id": 129699,
+        "name": "York County",
+        "latitude": "39.91996000",
+        "longitude": "-76.72651000",
+        "country": "United States",
+        "country_id": 233
+    },
+    {
+        "id": 129700,
+        "name": "York Harbor",
+        "latitude": "43.13676000",
+        "longitude": "-70.64561000",
+        "country": "United States",
+        "country_id": 233
+    },
+    {
+        "id": 63127,
+        "name": "York Town",
+        "latitude": "17.92515000",
+        "longitude": "-77.30002000",
+        "country": "Jamaica",
+        "country_id": 108
+    },
+    {
+        "id": 66435,
+        "name": "Yorke Hill",
+        "latitude": "14.01694000",
+        "longitude": "-60.97919000",
+        "country": "Saint Lucia",
+        "country_id": 186
+    },
+    {
+        "id": 8026,
+        "name": "Yorke Peninsula",
+        "latitude": "-34.70549000",
+        "longitude": "137.58179000",
+        "country": "Australia",
+        "country_id": 14
+    },
+    {
+        "id": 129701,
+        "name": "Yorketown",
+        "latitude": "40.30789000",
+        "longitude": "-74.33765000",
+        "country": "United States",
+        "country_id": 233
+    },
+    {
+        "id": 8027,
+        "name": "Yorkeys Knob",
+        "latitude": "-16.80278000",
+        "longitude": "145.72083000",
+        "country": "Australia",
+        "country_id": 14
+    },
+    {
+        "id": 129702,
+        "name": "Yorklyn",
+        "latitude": "39.99232000",
+        "longitude": "-76.64635000",
+        "country": "United States",
+        "country_id": 233
+    },
+    {
+        "id": 129703,
+        "name": "Yorkshire",
+        "latitude": "38.79317000",
+        "longitude": "-77.44777000",
+        "country": "United States",
+        "country_id": 233
+    },
+    {
+        "id": 129704,
+        "name": "Yorkshire",
+        "latitude": "42.53006000",
+        "longitude": "-78.47280000",
+        "country": "United States",
+        "country_id": 233
+    },
+    {
+        "id": 17223,
+        "name": "Yorkton",
+        "latitude": "51.21670000",
+        "longitude": "-102.46766000",
+        "country": "Canada",
+        "country_id": 39
+    },
+    {
+        "id": 129705,
+        "name": "Yorktown",
+        "latitude": "37.23876000",
+        "longitude": "-76.50967000",
+        "country": "United States",
+        "country_id": 233
+    },
+    {
+        "id": 129706,
+        "name": "Yorktown",
+        "latitude": "28.98109000",
+        "longitude": "-97.50277000",
+        "country": "United States",
+        "country_id": 233
+    },
+    {
+        "id": 129707,
+        "name": "Yorktown",
+        "latitude": "40.17365000",
+        "longitude": "-85.49414000",
+        "country": "United States",
+        "country_id": 233
+    },
+    {
+        "id": 129708,
+        "name": "Yorktown Heights",
+        "latitude": "41.27093000",
+        "longitude": "-73.77763000",
+        "country": "United States",
+        "country_id": 233
+    },
+    {
+        "id": 141849,
+        "name": "Yorkville",
+        "latitude": "40.15452000",
+        "longitude": "-80.71036000",
+        "country": "United States",
+        "country_id": 233
+    },
+    {
+        "id": 129709,
+        "name": "Yorkville",
+        "latitude": "41.64114000",
+        "longitude": "-88.44729000",
+        "country": "United States",
+        "country_id": 233
+    },
+    {
+        "id": 129710,
+        "name": "Yorkville",
+        "latitude": "43.11285000",
+        "longitude": "-75.27100000",
+        "country": "United States",
+        "country_id": 233
+    },
+    {
+        "id": 54375,
+        "name": "Yoro",
+        "latitude": "15.13750000",
+        "longitude": "-87.12778000",
+        "country": "Honduras",
+        "country_id": 97
+    },
+    {
+        "id": 67630,
+        "name": "Yorosso",
+        "latitude": "12.35811000",
+        "longitude": "-4.77688000",
+        "country": "Mali",
+        "country_id": 134
+    },
+    {
+        "id": 129711,
+        "name": "Yosemite Lakes",
+        "latitude": "37.19106000",
+        "longitude": "-119.77265000",
+        "country": "United States",
+        "country_id": 233
+    },
+    {
+        "id": 129712,
+        "name": "Yosemite Valley",
+        "latitude": "37.74075000",
+        "longitude": "-119.57788000",
+        "country": "United States",
+        "country_id": 233
+    },
+    {
+        "id": 76244,
+        "name": "Yoshib",
+        "latitude": "16.84528000",
+        "longitude": "-92.44611000",
+        "country": "Mexico",
+        "country_id": 142
+    },
+    {
+        "id": 64683,
+        "name": "Yoshida-kasugachō",
+        "latitude": "37.68333000",
+        "longitude": "138.88333000",
+        "country": "Japan",
+        "country_id": 109
+    },
+    {
+        "id": 64684,
+        "name": "Yoshii",
+        "latitude": "36.25000000",
+        "longitude": "138.98333000",
+        "country": "Japan",
+        "country_id": 109
+    },
+    {
+        "id": 64685,
+        "name": "Yoshikawa",
+        "latitude": "35.89232000",
+        "longitude": "139.84184000",
+        "country": "Japan",
+        "country_id": 109
+    },
+    {
+        "id": 64686,
+        "name": "Yoshikawa Shi",
+        "latitude": "35.89512000",
+        "longitude": "139.86090000",
+        "country": "Japan",
+        "country_id": 109
+    },
+    {
+        "id": 64687,
+        "name": "Yoshino-chō",
+        "latitude": "34.39611000",
+        "longitude": "135.85768000",
+        "country": "Japan",
+        "country_id": 109
+    },
+    {
+        "id": 64688,
+        "name": "Yoshinogawa Shi",
+        "latitude": "34.03705000",
+        "longitude": "134.28354000",
+        "country": "Japan",
+        "country_id": 109
+    },
+    {
+        "id": 64689,
+        "name": "Yoshitomi",
+        "latitude": "33.60247000",
+        "longitude": "131.17599000",
+        "country": "Japan",
+        "country_id": 109
+    },
+    {
+        "id": 102581,
+        "name": "Yoshkar-Ola",
+        "latitude": "56.63877000",
+        "longitude": "47.89078000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 76245,
+        "name": "Yosphí",
+        "latitude": "20.17083000",
+        "longitude": "-99.95222000",
+        "country": "Mexico",
+        "country_id": 142
+    },
+    {
+        "id": 76246,
+        "name": "Yotholin",
+        "latitude": "20.32786000",
+        "longitude": "-89.45429000",
+        "country": "Mexico",
+        "country_id": 142
+    },
+    {
+        "id": 21627,
+        "name": "Yotoco",
+        "latitude": "3.86048000",
+        "longitude": "-76.38364000",
+        "country": "Colombia",
+        "country_id": 48
+    },
+    {
+        "id": 64690,
+        "name": "Yotsukaidō",
+        "latitude": "35.65000000",
+        "longitude": "140.16667000",
+        "country": "Japan",
+        "country_id": 109
+    },
+    {
+        "id": 64691,
+        "name": "Yotsukaidō-shi",
+        "latitude": "35.67167000",
+        "longitude": "140.17912000",
+        "country": "Japan",
+        "country_id": 109
+    },
+    {
+        "id": 57433,
+        "name": "Youghal",
+        "latitude": "51.95000000",
+        "longitude": "-7.85056000",
+        "country": "Ireland",
+        "country_id": 105
+    },
+    {
+        "id": 149210,
+        "name": "Youguzhuang",
+        "latitude": "39.90802000",
+        "longitude": "117.24576000",
+        "country": "China",
+        "country_id": 45
+    },
+    {
+        "id": 20389,
+        "name": "Youhao",
+        "latitude": "47.85306000",
+        "longitude": "128.83565000",
+        "country": "China",
+        "country_id": 45
+    },
+    {
+        "id": 64692,
+        "name": "Youkaichi",
+        "latitude": "35.11626000",
+        "longitude": "136.19768000",
+        "country": "Japan",
+        "country_id": 109
+    },
+    {
+        "id": 52374,
+        "name": "Youkounkoun",
+        "latitude": "12.53110000",
+        "longitude": "-13.12240000",
+        "country": "Guinea",
+        "country_id": 92
+    },
+    {
+        "id": 52025,
+        "name": "Youlgreave",
+        "latitude": "53.17399000",
+        "longitude": "-1.69044000",
+        "country": "United Kingdom",
+        "country_id": 232
+    },
+    {
+        "id": 8028,
+        "name": "Young",
+        "latitude": "-34.31350000",
+        "longitude": "148.30107000",
+        "country": "Australia",
+        "country_id": 14
+    },
+    {
+        "id": 129893,
+        "name": "Young",
+        "latitude": "-32.69844000",
+        "longitude": "-57.62693000",
+        "country": "Uruguay",
+        "country_id": 235
+    },
+    {
+        "id": 129713,
+        "name": "Young America (historical)",
+        "latitude": "44.78274000",
+        "longitude": "-93.91358000",
+        "country": "United States",
+        "country_id": 233
+    },
+    {
+        "id": 129714,
+        "name": "Young County",
+        "latitude": "33.17670000",
+        "longitude": "-98.68777000",
+        "country": "United States",
+        "country_id": 233
+    },
+    {
+        "id": 129715,
+        "name": "Young Harris",
+        "latitude": "34.93315000",
+        "longitude": "-83.84712000",
+        "country": "United States",
+        "country_id": 233
+    },
+    {
+        "id": 141850,
+        "name": "Youngstown",
+        "latitude": "41.09978000",
+        "longitude": "-80.64952000",
+        "country": "United States",
+        "country_id": 233
+    },
+    {
+        "id": 129716,
+        "name": "Youngstown",
+        "latitude": "30.36436000",
+        "longitude": "-85.43826000",
+        "country": "United States",
+        "country_id": 233
+    },
+    {
+        "id": 129717,
+        "name": "Youngstown",
+        "latitude": "43.24728000",
+        "longitude": "-79.05005000",
+        "country": "United States",
+        "country_id": 233
+    },
+    {
+        "id": 129718,
+        "name": "Youngsville",
+        "latitude": "30.09965000",
+        "longitude": "-91.99012000",
+        "country": "United States",
+        "country_id": 233
+    },
+    {
+        "id": 129719,
+        "name": "Youngsville",
+        "latitude": "36.02487000",
+        "longitude": "-78.47444000",
+        "country": "United States",
+        "country_id": 233
+    },
+    {
+        "id": 129720,
+        "name": "Youngsville",
+        "latitude": "41.85228000",
+        "longitude": "-79.31866000",
+        "country": "United States",
+        "country_id": 233
+    },
+    {
+        "id": 8029,
+        "name": "Youngtown",
+        "latitude": "-41.48332000",
+        "longitude": "147.17067000",
+        "country": "Australia",
+        "country_id": 14
+    },
+    {
+        "id": 129721,
+        "name": "Youngtown",
+        "latitude": "33.59393000",
+        "longitude": "-112.30294000",
+        "country": "United States",
+        "country_id": 233
+    },
+    {
+        "id": 129722,
+        "name": "Youngwood",
+        "latitude": "40.24035000",
+        "longitude": "-79.57671000",
+        "country": "United States",
+        "country_id": 233
+    },
+    {
+        "id": 129723,
+        "name": "Yountville",
+        "latitude": "38.40158000",
+        "longitude": "-122.36081000",
+        "country": "United States",
+        "country_id": 233
+    },
+    {
+        "id": 67263,
+        "name": "Youssoufia",
+        "latitude": "32.24634000",
+        "longitude": "-8.52941000",
+        "country": "Morocco",
+        "country_id": 149
+    },
+    {
+        "id": 48009,
+        "name": "Youx",
+        "latitude": "46.14467000",
+        "longitude": "2.79903000",
+        "country": "France",
+        "country_id": 75
+    },
+    {
+        "id": 20390,
+        "name": "Youyupu",
+        "latitude": "27.55170000",
+        "longitude": "109.13500000",
+        "country": "China",
+        "country_id": 45
+    },
+    {
+        "id": 106829,
+        "name": "Yovon",
+        "latitude": "38.31408000",
+        "longitude": "69.03784000",
+        "country": "Tajikistan",
+        "country_id": 217
+    },
+    {
+        "id": 8030,
+        "name": "Yowie Bay",
+        "latitude": "-34.05116000",
+        "longitude": "151.10228000",
+        "country": "Australia",
+        "country_id": 14
+    },
+    {
+        "id": 52026,
+        "name": "Yoxall",
+        "latitude": "52.76659000",
+        "longitude": "-1.79068000",
+        "country": "United Kingdom",
+        "country_id": 232
+    },
+    {
+        "id": 89854,
+        "name": "Ypacarai",
+        "latitude": "-25.40777000",
+        "longitude": "-57.28889000",
+        "country": "Paraguay",
+        "country_id": 172
+    },
+    {
+        "id": 78990,
+        "name": "Ypenburg",
+        "latitude": "52.04098000",
+        "longitude": "4.36981000",
+        "country": "Netherlands",
+        "country_id": 156
+    },
+    {
+        "id": 48010,
+        "name": "Yport",
+        "latitude": "49.73716000",
+        "longitude": "0.31537000",
+        "country": "France",
+        "country_id": 75
+    },
+    {
+        "id": 129724,
+        "name": "Ypsilanti",
+        "latitude": "42.24115000",
+        "longitude": "-83.61299000",
+        "country": "United States",
+        "country_id": 233
+    },
+    {
+        "id": 39129,
+        "name": "Ypäjä",
+        "latitude": "60.80000000",
+        "longitude": "23.28333000",
+        "country": "Finland",
+        "country_id": 74
+    },
+    {
+        "id": 129725,
+        "name": "Yreka",
+        "latitude": "41.73542000",
+        "longitude": "-122.63447000",
+        "country": "United States",
+        "country_id": 233
+    },
+    {
+        "id": 65831,
+        "name": "Yrghyz",
+        "latitude": "48.61667000",
+        "longitude": "61.26667000",
+        "country": "Kazakhstan",
+        "country_id": 112
+    },
+    {
+        "id": 3865,
+        "name": "Ysper",
+        "latitude": "48.28865000",
+        "longitude": "15.06131000",
+        "country": "Austria",
+        "country_id": 15
+    },
+    {
+        "id": 78991,
+        "name": "Ysselsteyn",
+        "latitude": "51.49000000",
+        "longitude": "5.89722000",
+        "country": "Netherlands",
+        "country_id": 156
+    },
+    {
+        "id": 48011,
+        "name": "Yssingeaux",
+        "latitude": "45.14282000",
+        "longitude": "4.12372000",
+        "country": "France",
+        "country_id": 75
+    },
+    {
+        "id": 103983,
+        "name": "Ystad",
+        "latitude": "55.42966000",
+        "longitude": "13.82041000",
+        "country": "Sweden",
+        "country_id": 213
+    },
+    {
+        "id": 52027,
+        "name": "Ystalyfera",
+        "latitude": "51.76716000",
+        "longitude": "-3.78082000",
+        "country": "United Kingdom",
+        "country_id": 232
+    },
+    {
+        "id": 64934,
+        "name": "Ysyk-Ata",
+        "latitude": "42.72665000",
+        "longitude": "75.07444000",
+        "country": "Kyrgyzstan",
+        "country_id": 118
+    },
+    {
+        "id": 48012,
+        "name": "Ytrac",
+        "latitude": "44.91200000",
+        "longitude": "2.36248000",
+        "country": "France",
+        "country_id": 75
+    },
+    {
+        "id": 79670,
+        "name": "Ytre Arna",
+        "latitude": "60.46175000",
+        "longitude": "5.43265000",
+        "country": "Norway",
+        "country_id": 165
+    },
+    {
+        "id": 79671,
+        "name": "Ytrebygda",
+        "latitude": "60.30504000",
+        "longitude": "5.28236000",
+        "country": "Norway",
+        "country_id": 165
+    },
+    {
+        "id": 102582,
+        "name": "Ytyk-Kyuyël’",
+        "latitude": "62.36119000",
+        "longitude": "133.56044000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 109038,
+        "name": "Yuanlin",
+        "latitude": "23.95671000",
+        "longitude": "120.57608000",
+        "country": "Taiwan",
+        "country_id": 216
+    },
+    {
+        "id": 20391,
+        "name": "Yuanping",
+        "latitude": "38.71528000",
+        "longitude": "112.75750000",
+        "country": "China",
+        "country_id": 45
+    },
+    {
+        "id": 129726,
+        "name": "Yuba City",
+        "latitude": "39.14045000",
+        "longitude": "-121.61691000",
+        "country": "United States",
+        "country_id": 233
+    },
+    {
+        "id": 129727,
+        "name": "Yuba County",
+        "latitude": "39.26902000",
+        "longitude": "-121.35126000",
+        "country": "United States",
+        "country_id": 233
+    },
+    {
+        "id": 102583,
+        "name": "Yubileyny",
+        "latitude": "55.93333000",
+        "longitude": "37.83333000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 102584,
+        "name": "Yubileynyy",
+        "latitude": "58.77940000",
+        "longitude": "57.78220000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 16117,
+        "name": "Yubilyeyny",
+        "latitude": "53.81910000",
+        "longitude": "27.52150000",
+        "country": "Belarus",
+        "country_id": 21
+    },
+    {
+        "id": 85321,
+        "name": "Yubo",
+        "latitude": "10.38960000",
+        "longitude": "123.06900000",
+        "country": "Philippines",
+        "country_id": 174
+    },
+    {
+        "id": 129728,
+        "name": "Yucaipa",
+        "latitude": "34.03363000",
+        "longitude": "-117.04309000",
+        "country": "United States",
+        "country_id": 233
+    },
+    {
+        "id": 129729,
+        "name": "Yucca Valley",
+        "latitude": "34.11417000",
+        "longitude": "-116.43224000",
+        "country": "United States",
+        "country_id": 233
+    },
+    {
+        "id": 20392,
+        "name": "Yucheng",
+        "latitude": "29.98521000",
+        "longitude": "102.99900000",
+        "country": "China",
+        "country_id": 45
+    },
+    {
+        "id": 20393,
+        "name": "Yucheng",
+        "latitude": "34.92889000",
+        "longitude": "116.46528000",
+        "country": "China",
+        "country_id": 45
+    },
+    {
+        "id": 20394,
+        "name": "Yuci",
+        "latitude": "37.68028000",
+        "longitude": "112.73194000",
+        "country": "China",
+        "country_id": 45
+    },
+    {
+        "id": 76247,
+        "name": "Yucuita",
+        "latitude": "17.51073000",
+        "longitude": "-97.26965000",
+        "country": "Mexico",
+        "country_id": 142
+    },
+    {
+        "id": 64693,
+        "name": "Yudomari",
+        "latitude": "30.23470000",
+        "longitude": "130.47942000",
+        "country": "Japan",
+        "country_id": 109
+    },
+    {
+        "id": 20395,
+        "name": "Yudong",
+        "latitude": "29.38500000",
+        "longitude": "106.51944000",
+        "country": "China",
+        "country_id": 45
+    },
+    {
+        "id": 149211,
+        "name": "Yuelongzhuang",
+        "latitude": "39.56833000",
+        "longitude": "117.85417000",
+        "country": "China",
+        "country_id": 45
+    },
+    {
+        "id": 153492,
+        "name": "Yuen Long",
+        "latitude": "22.44400000",
+        "longitude": "114.02700000",
+        "country": "Hong Kong S.A.R.",
+        "country_id": 98
+    },
+    {
+        "id": 20396,
+        "name": "Yueyang",
+        "latitude": "29.37455000",
+        "longitude": "113.09481000",
+        "country": "China",
+        "country_id": 45
+    },
+    {
+        "id": 20397,
+        "name": "Yueyang Shi",
+        "latitude": "29.32472000",
+        "longitude": "113.30200000",
+        "country": "China",
+        "country_id": 45
+    },
+    {
+        "id": 64694,
+        "name": "Yufu-shi",
+        "latitude": "33.17923000",
+        "longitude": "131.43219000",
+        "country": "Japan",
+        "country_id": 109
+    },
+    {
+        "id": 102585,
+        "name": "Yug",
+        "latitude": "57.72930000",
+        "longitude": "56.17200000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 102586,
+        "name": "Yuganets",
+        "latitude": "56.25080000",
+        "longitude": "43.23069000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 64695,
+        "name": "Yugawara",
+        "latitude": "35.15000000",
+        "longitude": "139.06667000",
+        "country": "Japan",
+        "country_id": 109
+    },
+    {
+        "id": 102587,
+        "name": "Yugo-Kamskiy",
+        "latitude": "57.70260000",
+        "longitude": "55.59040000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 102588,
+        "name": "Yugorsk",
+        "latitude": "61.31226000",
+        "longitude": "63.33067000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 149212,
+        "name": "Yuguzhuang",
+        "latitude": "39.64290000",
+        "longitude": "117.36470000",
+        "country": "China",
+        "country_id": 45
+    },
+    {
+        "id": 109039,
+        "name": "Yujing",
+        "latitude": "23.12493000",
+        "longitude": "120.46138000",
+        "country": "Taiwan",
+        "country_id": 216
+    },
+    {
+        "id": 102589,
+        "name": "Yukamenskoye",
+        "latitude": "57.88780000",
+        "longitude": "52.24500000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 8199,
+        "name": "Yukhary-Dashkesan",
+        "latitude": "40.52393000",
+        "longitude": "46.08186000",
+        "country": "Azerbaijan",
+        "country_id": 16
+    },
+    {
+        "id": 102590,
+        "name": "Yukhnov",
+        "latitude": "54.74444000",
+        "longitude": "35.22972000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 102591,
+        "name": "Yukhnovskiy Rayon",
+        "latitude": "54.75000000",
+        "longitude": "35.25000000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 129730,
+        "name": "Yukon",
+        "latitude": "35.50672000",
+        "longitude": "-97.76254000",
+        "country": "United States",
+        "country_id": 233
+    },
+    {
+        "id": 129731,
+        "name": "Yukon-Koyukuk Census Area",
+        "latitude": "65.70000000",
+        "longitude": "-152.71667000",
+        "country": "United States",
+        "country_id": 233
+    },
+    {
+        "id": 65254,
+        "name": "Yuktae-dong",
+        "latitude": "40.02472000",
+        "longitude": "128.15972000",
+        "country": "North Korea",
+        "country_id": 115
+    },
+    {
+        "id": 64696,
+        "name": "Yukuhashi",
+        "latitude": "33.72873000",
+        "longitude": "130.98300000",
+        "country": "Japan",
+        "country_id": 109
+    },
+    {
+        "id": 64697,
+        "name": "Yukuhashi Shi",
+        "latitude": "33.71404000",
+        "longitude": "130.97108000",
+        "country": "Japan",
+        "country_id": 109
+    },
+    {
+        "id": 8031,
+        "name": "Yulara",
+        "latitude": "-25.24060000",
+        "longitude": "130.98890000",
+        "country": "Australia",
+        "country_id": 14
+    },
+    {
+        "id": 129732,
+        "name": "Yulee",
+        "latitude": "30.63190000",
+        "longitude": "-81.60649000",
+        "country": "United States",
+        "country_id": 233
+    },
+    {
+        "id": 77147,
+        "name": "Yuli",
+        "latitude": "9.69707000",
+        "longitude": "10.27350000",
+        "country": "Nigeria",
+        "country_id": 161
+    },
+    {
+        "id": 20398,
+        "name": "Yulin",
+        "latitude": "22.63333000",
+        "longitude": "110.15000000",
+        "country": "China",
+        "country_id": 45
+    },
+    {
+        "id": 20399,
+        "name": "Yulinshi",
+        "latitude": "38.29181000",
+        "longitude": "109.73753000",
+        "country": "China",
+        "country_id": 45
+    },
+    {
+        "id": 129733,
+        "name": "Yuma",
+        "latitude": "32.72532000",
+        "longitude": "-114.62440000",
+        "country": "United States",
+        "country_id": 233
+    },
+    {
+        "id": 129734,
+        "name": "Yuma",
+        "latitude": "40.12221000",
+        "longitude": "-102.72521000",
+        "country": "United States",
+        "country_id": 233
+    },
+    {
+        "id": 129735,
+        "name": "Yuma County",
+        "latitude": "32.76940000",
+        "longitude": "-113.90556000",
+        "country": "United States",
+        "country_id": 233
+    },
+    {
+        "id": 129736,
+        "name": "Yuma County",
+        "latitude": "40.00290000",
+        "longitude": "-102.42423000",
+        "country": "United States",
+        "country_id": 233
+    },
+    {
+        "id": 102592,
+        "name": "Yumaguzino",
+        "latitude": "52.90412000",
+        "longitude": "56.39329000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 10052,
+        "name": "Yumani",
+        "latitude": "-16.03574000",
+        "longitude": "-69.14843000",
+        "country": "Bolivia",
+        "country_id": 27
+    },
+    {
+        "id": 110964,
+        "name": "Yumbe",
+        "latitude": "3.46506000",
+        "longitude": "31.24689000",
+        "country": "Uganda",
+        "country_id": 229
+    },
+    {
+        "id": 19131,
+        "name": "Yumbel",
+        "latitude": "-37.09820000",
+        "longitude": "-72.56084000",
+        "country": "Chile",
+        "country_id": 44
+    },
+    {
+        "id": 85322,
+        "name": "Yumbing",
+        "latitude": "9.23930000",
+        "longitude": "124.65780000",
+        "country": "Philippines",
+        "country_id": 174
+    },
+    {
+        "id": 21628,
+        "name": "Yumbo",
+        "latitude": "3.58234000",
+        "longitude": "-76.49146000",
+        "country": "Colombia",
+        "country_id": 48
+    },
+    {
+        "id": 108737,
+        "name": "Yumurtalık",
+        "latitude": "36.78245000",
+        "longitude": "35.79949000",
+        "country": "Turkey",
+        "country_id": 225
+    },
+    {
+        "id": 108738,
+        "name": "Yunak",
+        "latitude": "38.81418000",
+        "longitude": "31.73223000",
+        "country": "Turkey",
+        "country_id": 225
+    },
+    {
+        "id": 20400,
+        "name": "Yuncheng",
+        "latitude": "35.02306000",
+        "longitude": "110.99278000",
+        "country": "China",
+        "country_id": 45
+    },
+    {
+        "id": 38439,
+        "name": "Yuncler",
+        "latitude": "40.04079000",
+        "longitude": "-3.89979000",
+        "country": "Spain",
+        "country_id": 207
+    },
+    {
+        "id": 152152,
+        "name": "Yunclillos",
+        "latitude": "0.00000000",
+        "longitude": "0.00000000",
+        "country": "Spain",
+        "country_id": 207
+    },
+    {
+        "id": 38440,
+        "name": "Yuncos",
+        "latitude": "40.08590000",
+        "longitude": "-3.87106000",
+        "country": "Spain",
+        "country_id": 207
+    },
+    {
+        "id": 147414,
+        "name": "Yunes",
+        "latitude": "34.15860000",
+        "longitude": "48.67330000",
+        "country": "Iran",
+        "country_id": 103
+    },
+    {
+        "id": 150438,
+        "name": "Yunesi",
+        "latitude": "34.80527800",
+        "longitude": "58.43750000",
+        "country": "Iran",
+        "country_id": 103
+    },
+    {
+        "id": 20401,
+        "name": "Yunfu",
+        "latitude": "22.92833000",
+        "longitude": "112.03954000",
+        "country": "China",
+        "country_id": 45
+    },
+    {
+        "id": 8032,
+        "name": "Yungaburra",
+        "latitude": "-17.27058000",
+        "longitude": "145.58335000",
+        "country": "Australia",
+        "country_id": 14
+    },
+    {
+        "id": 148434,
+        "name": "Yungay",
+        "latitude": "-37.11666667",
+        "longitude": "-72.01666667",
+        "country": "Chile",
+        "country_id": 44
+    },
+    {
+        "id": 81018,
+        "name": "Yungay",
+        "latitude": "-9.13833000",
+        "longitude": "-77.74361000",
+        "country": "Peru",
+        "country_id": 173
+    },
+    {
+        "id": 81019,
+        "name": "Yunguyo",
+        "latitude": "-16.25000000",
+        "longitude": "-69.08333000",
+        "country": "Peru",
+        "country_id": 173
+    },
+    {
+        "id": 85323,
+        "name": "Yuni",
+        "latitude": "13.41240000",
+        "longitude": "122.48460000",
+        "country": "Philippines",
+        "country_id": 174
+    },
+    {
+        "id": 147415,
+        "name": "Yunji",
+        "latitude": "34.35860000",
+        "longitude": "48.78170000",
+        "country": "Iran",
+        "country_id": 103
+    },
+    {
+        "id": 109040,
+        "name": "Yunlin",
+        "latitude": "23.70701000",
+        "longitude": "120.38481000",
+        "country": "Taiwan",
+        "country_id": 216
+    },
+    {
+        "id": 20402,
+        "name": "Yunmeng Chengguanzhen",
+        "latitude": "31.06251000",
+        "longitude": "113.76545000",
+        "country": "China",
+        "country_id": 45
+    },
+    {
+        "id": 38441,
+        "name": "Yunquera",
+        "latitude": "36.73252000",
+        "longitude": "-4.92122000",
+        "country": "Spain",
+        "country_id": 207
+    },
+    {
+        "id": 38442,
+        "name": "Yunquera de Henares",
+        "latitude": "40.75139000",
+        "longitude": "-3.16260000",
+        "country": "Spain",
+        "country_id": 207
+    },
+    {
+        "id": 152108,
+        "name": "Yunta La",
+        "latitude": "0.00000000",
+        "longitude": "0.00000000",
+        "country": "Spain",
+        "country_id": 207
+    },
+    {
+        "id": 108740,
+        "name": "Yunusemre",
+        "latitude": "38.62063000",
+        "longitude": "27.40806000",
+        "country": "Turkey",
+        "country_id": 225
+    },
+    {
+        "id": 20403,
+        "name": "Yunyang",
+        "latitude": "33.44743000",
+        "longitude": "112.71422000",
+        "country": "China",
+        "country_id": 45
+    },
+    {
+        "id": 149103,
+        "name": "Yunyoo-Nasuan",
+        "latitude": "10.48400000",
+        "longitude": "-0.00900000",
+        "country": "Ghana",
+        "country_id": 83
+    },
+    {
+        "id": 53801,
+        "name": "Yupiltepeque",
+        "latitude": "14.20000000",
+        "longitude": "-89.78333000",
+        "country": "Guatemala",
+        "country_id": 90
+    },
+    {
+        "id": 81020,
+        "name": "Yura",
+        "latitude": "-16.25223000",
+        "longitude": "-71.67969000",
+        "country": "Peru",
+        "country_id": 173
+    },
+    {
+        "id": 102593,
+        "name": "Yurga",
+        "latitude": "55.72306000",
+        "longitude": "84.88611000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 102594,
+        "name": "Yurgamysh",
+        "latitude": "55.37454000",
+        "longitude": "64.46222000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 102595,
+        "name": "Yurginskiy Rayon",
+        "latitude": "55.75000000",
+        "longitude": "84.75000000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 102596,
+        "name": "Yurginskoye",
+        "latitude": "56.81888000",
+        "longitude": "67.39211000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 64698,
+        "name": "Yurihonjō",
+        "latitude": "39.38950000",
+        "longitude": "140.05813000",
+        "country": "Japan",
+        "country_id": 109
+    },
+    {
+        "id": 64699,
+        "name": "Yurihonjō-shi",
+        "latitude": "39.29336000",
+        "longitude": "140.16498000",
+        "country": "Japan",
+        "country_id": 109
+    },
+    {
+        "id": 147956,
+        "name": "Yurimaguas",
+        "latitude": "-5.90000000",
+        "longitude": "-76.08333333",
+        "country": "Peru",
+        "country_id": 173
+    },
+    {
+        "id": 102597,
+        "name": "Yurino",
+        "latitude": "56.29417000",
+        "longitude": "46.30392000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 102598,
+        "name": "Yurinskiy Rayon",
+        "latitude": "56.30000000",
+        "longitude": "46.30000000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 76248,
+        "name": "Yuriria",
+        "latitude": "20.21081000",
+        "longitude": "-101.13212000",
+        "country": "Mexico",
+        "country_id": 142
+    },
+    {
+        "id": 110802,
+        "name": "Yurkivka",
+        "latitude": "49.01082000",
+        "longitude": "31.08797000",
+        "country": "Ukraine",
+        "country_id": 230
+    },
+    {
+        "id": 102599,
+        "name": "Yurla",
+        "latitude": "59.32510000",
+        "longitude": "54.32780000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 102600,
+        "name": "Yurovka",
+        "latitude": "45.11470000",
+        "longitude": "37.41882000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 105966,
+        "name": "Yurty",
+        "latitude": "56.04980000",
+        "longitude": "97.63480000",
+        "country": "Ukraine",
+        "country_id": 230
+    },
+    {
+        "id": 102601,
+        "name": "Yuryuzan’",
+        "latitude": "54.86333000",
+        "longitude": "58.42194000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 76249,
+        "name": "Yurécuaro",
+        "latitude": "20.33606000",
+        "longitude": "-102.28382000",
+        "country": "Mexico",
+        "country_id": 142
+    },
+    {
+        "id": 102602,
+        "name": "Yur’yanskiy Rayon",
+        "latitude": "59.00000000",
+        "longitude": "49.25000000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 102603,
+        "name": "Yur’yev-Pol’skiy",
+        "latitude": "56.50339000",
+        "longitude": "39.67911000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 102604,
+        "name": "Yur’yev-Pol’skiy Rayon",
+        "latitude": "56.58333000",
+        "longitude": "39.58333000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 102605,
+        "name": "Yur’yevets",
+        "latitude": "57.32007000",
+        "longitude": "43.10410000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 102606,
+        "name": "Yur’yevetskiy Rayon",
+        "latitude": "57.25000000",
+        "longitude": "42.83333000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 110803,
+        "name": "Yur”yivs’kyy Rayon",
+        "latitude": "48.80743000",
+        "longitude": "35.91325000",
+        "country": "Ukraine",
+        "country_id": 230
+    },
+    {
+        "id": 54376,
+        "name": "Yuscarán",
+        "latitude": "13.95708000",
+        "longitude": "-86.83170000",
+        "country": "Honduras",
+        "country_id": 97
+    },
+    {
+        "id": 65567,
+        "name": "Yuseong-gu",
+        "latitude": "36.36685000",
+        "longitude": "127.32700000",
+        "country": "South Korea",
+        "country_id": 116
+    },
+    {
+        "id": 102607,
+        "name": "Yushala",
+        "latitude": "57.07611000",
+        "longitude": "64.26011000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 20404,
+        "name": "Yushan",
+        "latitude": "26.90863000",
+        "longitude": "118.56713000",
+        "country": "China",
+        "country_id": 45
+    },
+    {
+        "id": 20405,
+        "name": "Yushan",
+        "latitude": "31.67748000",
+        "longitude": "120.80134000",
+        "country": "China",
+        "country_id": 45
+    },
+    {
+        "id": 102608,
+        "name": "Yushkozero",
+        "latitude": "64.75162000",
+        "longitude": "32.10255000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 20406,
+        "name": "Yushu",
+        "latitude": "44.80000000",
+        "longitude": "126.53333000",
+        "country": "China",
+        "country_id": 45
+    },
+    {
+        "id": 20407,
+        "name": "Yushu Zangzu Zizhizhou",
+        "latitude": "34.39802000",
+        "longitude": "94.19021000",
+        "country": "China",
+        "country_id": 45
+    },
+    {
+        "id": 76250,
+        "name": "Yustis",
+        "latitude": "20.58233000",
+        "longitude": "-100.86392000",
+        "country": "Mexico",
+        "country_id": 142
+    },
+    {
+        "id": 108741,
+        "name": "Yusufeli",
+        "latitude": "40.82042000",
+        "longitude": "41.53743000",
+        "country": "Turkey",
+        "country_id": 225
+    },
+    {
+        "id": 147571,
+        "name": "Yusufpur",
+        "latitude": "25.66670000",
+        "longitude": "83.46670000",
+        "country": "India",
+        "country_id": 101
+    },
+    {
+        "id": 148230,
+        "name": "Yusuhara",
+        "latitude": "33.39194444",
+        "longitude": "132.92694444",
+        "country": "Japan",
+        "country_id": 109
+    },
+    {
+        "id": 102609,
+        "name": "Yus’vinskiy Rayon",
+        "latitude": "59.08333000",
+        "longitude": "55.25000000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 20408,
+        "name": "Yutan",
+        "latitude": "28.25831000",
+        "longitude": "112.56048000",
+        "country": "China",
+        "country_id": 45
+    },
+    {
+        "id": 129737,
+        "name": "Yutan",
+        "latitude": "41.24500000",
+        "longitude": "-96.39725000",
+        "country": "United States",
+        "country_id": 233
+    },
+    {
+        "id": 76251,
+        "name": "Yutanduchi de Guerrero",
+        "latitude": "17.04020000",
+        "longitude": "-97.29795000",
+        "country": "Mexico",
+        "country_id": 142
+    },
+    {
+        "id": 102610,
+        "name": "Yutazinskiy Rayon",
+        "latitude": "54.66667000",
+        "longitude": "53.50000000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 1597,
+        "name": "Yuto",
+        "latitude": "-23.64342000",
+        "longitude": "-64.47194000",
+        "country": "Argentina",
+        "country_id": 11
+    },
+    {
+        "id": 102611,
+        "name": "Yutsa",
+        "latitude": "43.95639000",
+        "longitude": "43.01278000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 89855,
+        "name": "Yuty",
+        "latitude": "-26.61471000",
+        "longitude": "-56.24607000",
+        "country": "Paraguay",
+        "country_id": 172
+    },
+    {
+        "id": 48013,
+        "name": "Yutz",
+        "latitude": "49.35571000",
+        "longitude": "6.19260000",
+        "country": "France",
+        "country_id": 75
+    },
+    {
+        "id": 8200,
+        "name": "Yuxarı Aran",
+        "latitude": "39.73361000",
+        "longitude": "47.65500000",
+        "country": "Azerbaijan",
+        "country_id": 16
+    },
+    {
+        "id": 20409,
+        "name": "Yuxi",
+        "latitude": "24.35500000",
+        "longitude": "102.54222000",
+        "country": "China",
+        "country_id": 45
+    },
+    {
+        "id": 20410,
+        "name": "Yuxia",
+        "latitude": "34.06153000",
+        "longitude": "108.62905000",
+        "country": "China",
+        "country_id": 45
+    },
+    {
+        "id": 20411,
+        "name": "Yuyao",
+        "latitude": "30.05000000",
+        "longitude": "121.14944000",
+        "country": "China",
+        "country_id": 45
+    },
+    {
+        "id": 64700,
+        "name": "Yuza",
+        "latitude": "39.01573000",
+        "longitude": "139.92909000",
+        "country": "Japan",
+        "country_id": 109
+    },
+    {
+        "id": 64701,
+        "name": "Yuzawa",
+        "latitude": "39.16667000",
+        "longitude": "140.50000000",
+        "country": "Japan",
+        "country_id": 109
+    },
+    {
+        "id": 64702,
+        "name": "Yuzawa-shi",
+        "latitude": "39.03658000",
+        "longitude": "140.54267000",
+        "country": "Japan",
+        "country_id": 109
+    },
+    {
+        "id": 102612,
+        "name": "Yuzha",
+        "latitude": "56.58306000",
+        "longitude": "42.01222000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 110804,
+        "name": "Yuzhne",
+        "latitude": "46.62211000",
+        "longitude": "31.10131000",
+        "country": "Ukraine",
+        "country_id": 230
+    },
+    {
+        "id": 102613,
+        "name": "Yuzhno-Kurilsk",
+        "latitude": "44.02734000",
+        "longitude": "145.86146000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 102614,
+        "name": "Yuzhno-Kurilsky District",
+        "latitude": "44.59242000",
+        "longitude": "146.77048000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 102615,
+        "name": "Yuzhno-Sakhalinsk",
+        "latitude": "46.95407000",
+        "longitude": "142.73603000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 102616,
+        "name": "Yuzhno-Sukhokumsk",
+        "latitude": "44.65811000",
+        "longitude": "45.64360000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 110805,
+        "name": "Yuzhnoukrains'k",
+        "latitude": "47.81777000",
+        "longitude": "31.18263000",
+        "country": "Ukraine",
+        "country_id": 230
+    },
+    {
+        "id": 102617,
+        "name": "Yuzhnoural’sk",
+        "latitude": "54.44180000",
+        "longitude": "61.25360000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 102618,
+        "name": "Yuzhnyy",
+        "latitude": "53.25417000",
+        "longitude": "83.69361000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 102619,
+        "name": "Yuzhnyy",
+        "latitude": "54.54837000",
+        "longitude": "20.59843000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 102620,
+        "name": "Yuzhnyy",
+        "latitude": "45.00250000",
+        "longitude": "40.47472000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 102621,
+        "name": "Yuzhnyy-Kospashskiy",
+        "latitude": "58.97250000",
+        "longitude": "57.75900000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 20412,
+        "name": "Yuzhong District",
+        "latitude": "29.55208000",
+        "longitude": "106.53814000",
+        "country": "China",
+        "country_id": 45
+    },
+    {
+        "id": 102622,
+        "name": "Yuzhskiy Rayon",
+        "latitude": "56.58333000",
+        "longitude": "42.00000000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 48014,
+        "name": "Yvelines",
+        "latitude": "48.80546000",
+        "longitude": "1.85696000",
+        "country": "France",
+        "country_id": 75
+    },
+    {
+        "id": 18790,
+        "name": "Yverdon-les-Bains",
+        "latitude": "46.77852000",
+        "longitude": "6.64115000",
+        "country": "Switzerland",
+        "country_id": 214
+    },
+    {
+        "id": 48015,
+        "name": "Yves",
+        "latitude": "46.01922000",
+        "longitude": "-1.04833000",
+        "country": "France",
+        "country_id": 75
+    },
+    {
+        "id": 48016,
+        "name": "Yvetot",
+        "latitude": "49.61744000",
+        "longitude": "0.75814000",
+        "country": "France",
+        "country_id": 75
+    },
+    {
+        "id": 48017,
+        "name": "Yvignac-la-Tour",
+        "latitude": "48.35000000",
+        "longitude": "-2.18333000",
+        "country": "France",
+        "country_id": 75
+    },
+    {
+        "id": 9134,
+        "name": "Yvoir",
+        "latitude": "50.32790000",
+        "longitude": "4.88059000",
+        "country": "Belgium",
+        "country_id": 22
+    },
+    {
+        "id": 18791,
+        "name": "Yvonand",
+        "latitude": "46.80034000",
+        "longitude": "6.74249000",
+        "country": "Switzerland",
+        "country_id": 214
+    },
+    {
+        "id": 48018,
+        "name": "Yvrac",
+        "latitude": "44.87786000",
+        "longitude": "-0.45870000",
+        "country": "France",
+        "country_id": 75
+    },
+    {
+        "id": 48019,
+        "name": "Yvré-le-Pôlin",
+        "latitude": "47.82235000",
+        "longitude": "0.15581000",
+        "country": "France",
+        "country_id": 75
+    },
+    {
+        "id": 106909,
+        "name": "Yylanly",
+        "latitude": "41.83333000",
+        "longitude": "59.65000000",
+        "country": "Turkmenistan",
+        "country_id": 226
+    },
+    {
+        "id": 48020,
+        "name": "Yzernay",
+        "latitude": "47.02229000",
+        "longitude": "-0.70295000",
+        "country": "France",
+        "country_id": 75
+    },
+    {
+        "id": 48021,
+        "name": "Yzeure",
+        "latitude": "46.56596000",
+        "longitude": "3.35446000",
+        "country": "France",
+        "country_id": 75
+    },
+    {
+        "id": 48022,
+        "name": "Yzeures-sur-Creuse",
+        "latitude": "46.78609000",
+        "longitude": "0.87166000",
+        "country": "France",
+        "country_id": 75
+    },
+    {
+        "id": 38443,
+        "name": "Yátova",
+        "latitude": "39.38333000",
+        "longitude": "-0.80000000",
+        "country": "Spain",
+        "country_id": 207
+    },
+    {
+        "id": 48023,
+        "name": "Yèvres",
+        "latitude": "48.21078000",
+        "longitude": "1.18717000",
+        "country": "France",
+        "country_id": 75
+    },
+    {
+        "id": 152151,
+        "name": "Yébenes Los",
+        "latitude": "0.00000000",
+        "longitude": "0.00000000",
+        "country": "Spain",
+        "country_id": 207
+    },
+    {
+        "id": 48024,
+        "name": "Yébleron",
+        "latitude": "49.63333000",
+        "longitude": "0.53746000",
+        "country": "France",
+        "country_id": 75
+    },
+    {
+        "id": 76252,
+        "name": "Yécora",
+        "latitude": "28.37154000",
+        "longitude": "-108.92781000",
+        "country": "Mexico",
+        "country_id": 142
+    },
+    {
+        "id": 151254,
+        "name": "Yécora/Iekora",
+        "latitude": "0.00000000",
+        "longitude": "0.00000000",
+        "country": "Spain",
+        "country_id": 207
+    },
+    {
+        "id": 38444,
+        "name": "Yélamos de Abajo",
+        "latitude": "40.63092000",
+        "longitude": "-2.85803000",
+        "country": "Spain",
+        "country_id": 207
+    },
+    {
+        "id": 38445,
+        "name": "Yélamos de Arriba",
+        "latitude": "40.64008000",
+        "longitude": "-2.84340000",
+        "country": "Spain",
+        "country_id": 207
+    },
+    {
+        "id": 38446,
+        "name": "Yémeda",
+        "latitude": "39.76667000",
+        "longitude": "-1.71667000",
+        "country": "Spain",
+        "country_id": 207
+    },
+    {
+        "id": 38447,
+        "name": "Yésero",
+        "latitude": "42.61911000",
+        "longitude": "-0.25020000",
+        "country": "Spain",
+        "country_id": 207
+    },
+    {
+        "id": 130628,
+        "name": "Yên Bái",
+        "latitude": "21.72288000",
+        "longitude": "104.91130000",
+        "country": "Vietnam",
+        "country_id": 240
+    },
+    {
+        "id": 130629,
+        "name": "Yên Vinh",
+        "latitude": "18.66667000",
+        "longitude": "105.66667000",
+        "country": "Vietnam",
+        "country_id": 240
+    },
+    {
+        "id": 102623,
+        "name": "Yëlkino",
+        "latitude": "58.69220000",
+        "longitude": "59.83200000",
+        "country": "Russia",
+        "country_id": 182
+    },
+    {
+        "id": 108744,
+        "name": "Yüksekova",
+        "latitude": "37.54627000",
+        "longitude": "44.25827000",
+        "country": "Turkey",
+        "country_id": 225
+    },
+    {
+        "id": 108745,
+        "name": "Yüreğir",
+        "latitude": "36.99205000",
+        "longitude": "35.45402000",
+        "country": "Turkey",
+        "country_id": 225
+    },
+    {
+        "id": 108746,
+        "name": "Yıldırım",
+        "latitude": "40.19567000",
+        "longitude": "29.03640000",
+        "country": "Turkey",
+        "country_id": 225
+    },
+    {
+        "id": 108747,
+        "name": "Yıldızeli",
+        "latitude": "39.87601000",
+        "longitude": "36.60652000",
+        "country": "Turkey",
+        "country_id": 225
+    },
+    {
+        "id": 108748,
+        "name": "Yığılca",
+        "latitude": "40.96497000",
+        "longitude": "31.45672000",
+        "country": "Turkey",
+        "country_id": 225
+    },
+    {
+        "id": 64703,
+        "name": "Yōkaichiba",
+        "latitude": "35.70000000",
+        "longitude": "140.55000000",
+        "country": "Japan",
+        "country_id": 109
+    },
+    {
+        "id": 65255,
+        "name": "Yŏmju-ŭp",
+        "latitude": "39.89333000",
+        "longitude": "124.59806000",
+        "country": "North Korea",
+        "country_id": 115
+    },
+    {
+        "id": 65256,
+        "name": "Yŏnan-ŭp",
+        "latitude": "37.90889000",
+        "longitude": "126.16111000",
+        "country": "North Korea",
+        "country_id": 115
+    },
+    {
+        "id": 65257,
+        "name": "Yŏngbyŏn",
+        "latitude": "39.81333000",
+        "longitude": "125.80417000",
+        "country": "North Korea",
+        "country_id": 115
+    },
+    {
+        "id": 65258,
+        "name": "Yŏnggwang-ŭp",
+        "latitude": "40.01833000",
+        "longitude": "127.45472000",
+        "country": "North Korea",
+        "country_id": 115
+    },
+    {
+        "id": 65568,
+        "name": "Yŏnmu",
+        "latitude": "36.12944000",
+        "longitude": "127.10000000",
+        "country": "South Korea",
+        "country_id": 116
+    },
+    {
+        "id": 64704,
+        "name": "Yūbari",
+        "latitude": "43.03778000",
+        "longitude": "141.95778000",
+        "country": "Japan",
+        "country_id": 109
+    },
+    {
+        "id": 64705,
+        "name": "Yūbari-shi",
+        "latitude": "43.04336000",
+        "longitude": "142.11065000",
+        "country": "Japan",
+        "country_id": 109
+    },
+    {
+        "id": 64706,
+        "name": "Yūki",
+        "latitude": "36.30000000",
+        "longitude": "139.88333000",
+        "country": "Japan",
+        "country_id": 109
+    },
+    {
+        "id": 64707,
+        "name": "Yūki-shi",
+        "latitude": "36.26127000",
+        "longitude": "139.86403000",
+        "country": "Japan",
+        "country_id": 109
+    }
+]
