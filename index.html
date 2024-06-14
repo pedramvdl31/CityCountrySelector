@@ -21,6 +21,7 @@
     <main class="container mb-5">
         <div class="bg-light p-5 rounded">
             <h1>CityCountrySelector.js</h1>
+            <p class="lead">Developed by <a href="https://github.com/pedramvdl31" target="_blank">Pedram Khoshnevis</a> and <a href="https://github.com/laradcm" target="_blank">Lara Mauricio</a>.</p>
             <div class="container my-5">
                 <div class="row">
                     <div class="col-lg-12">
@@ -76,6 +77,7 @@
                                 </pre>
                             </li>
                         </ol>
+                        <p>City and country names were taken from a database provided by dr5hn at <a href="https://github.com/dr5hn/countries-states-cities-database" target="_blank">https://github.com/dr5hn/countries-states-cities-database</a>. Thanks and shout out to dr5hn!</p>
                     </div>
                 </div>
             </div>
@@ -85,12 +87,53 @@
             <div class="row">
                 <div class="col-md-6">
                     <h2 class="mb-4">Simple Version</h2>
-                    <iframe src="simple-version/index.html" frameborder="0" style="width: 100%; height: 500px;"></iframe>
+                    <div class="form-group" style="position: relative;">
+                        <div class="input-group">
+                            <input type="text" class="form-control" placeholder="Type in your city and select an option" id="searchInputSimple" autocomplete="off">
+                        </div>
+                        <div class="dropdown">
+                            <ul class="dropdown-menu custom-dropdown w-100" id="resultsSimple" aria-labelledby="searchInputSimple"></ul>
+                        </div>
+                    </div>
                 </div>
                 <div class="col-md-6">
                     <h2 class="mb-4">Plugin Version</h2>
-                    <iframe src="plugin-version/index.html" frameborder="0" style="width: 100%; height: 500px;"></iframe>
+                    <div id="city-country-selector"></div>
                 </div>
+            </div>
+        </div>
+
+        <div class="container my-5">
+            <div class="bg-light p-5 rounded">
+                <h2 class="mb-4">Testing Locally</h2>
+                <p>If you want to test the code locally, you might run into CORS errors. This happens because the files are being accessed directly from the file system. To avoid these errors, you need to run a simple HTTP server. Here are a few ways to do that:</p>
+                <h3>Using Python (built-in HTTP server)</h3>
+                <p>Open a terminal or command prompt, navigate to your project directory, and run:</p>
+                <pre><code>python -m http.server 8000</code></pre>
+                <p>This will start a server at <a href="http://localhost:8000" target="_blank">http://localhost:8000</a>.</p>
+
+                <h3>Using Node.js (http-server package)</h3>
+                <p>If you have Node.js installed, you can use the <code>http-server</code> package.</p>
+                <ol>
+                    <li>Install <code>http-server</code> globally if you haven't already:</li>
+                    <pre><code>npm install -g http-server</code></pre>
+                    <li>Navigate to your project directory and run:</li>
+                    <pre><code>http-server -p 8000</code></pre>
+                </ol>
+                <p>This will start a server at <a href="http://localhost:8000" target="_blank">http://localhost:8000</a>.</p>
+
+                <h3>Using Live Server (VS Code extension)</h3>
+                <p>If you are using Visual Studio Code, you can use the Live Server extension.</p>
+                <ol>
+                    <li>Install the Live Server extension from the VS Code Marketplace.</li>
+                    <li>Open your project in VS Code.</li>
+                    <li>Right-click on your <code>index.html</code> file and select "Open with Live Server".</li>
+                </ol>
+
+                <h3>Using PHP (built-in server)</h3>
+                <p>If you have PHP installed, you can use its built-in server. Navigate to your project directory and run:</p>
+                <pre><code>php -S localhost:8000</code></pre>
+                <p>This will start a server at <a href="http://localhost:8000" target="_blank">http://localhost:8000</a>.</p>
             </div>
         </div>
     </main>
@@ -101,6 +144,14 @@
         </div>
     </footer>
 
+    <script src="simple-version/script.js"></script>
+    <script src="plugin-version/CityCountrySelector.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            // Initialize plugin version
+            new CityCountrySelector('city-country-selector', 'plugin-version/data');
+        });
+    </script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha2/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>

@@ -1,14 +1,41 @@
 class CityCountrySelector {
-    constructor(inputId, resultsId, dataPath) {
-        this.searchInput = document.getElementById(inputId);
-        this.resultsDiv = document.getElementById(resultsId);
+    constructor(containerId, dataPath) {
+        this.container = document.getElementById(containerId);
         this.dataPath = dataPath;
 
         this.init();
     }
 
     init() {
+        this.createElements();
         this.searchInput.addEventListener('input', (event) => this.handleInput(event));
+    }
+
+    createElements() {
+        this.searchInput = document.createElement('input');
+        this.searchInput.setAttribute('type', 'text');
+        this.searchInput.setAttribute('class', 'form-control');
+        this.searchInput.setAttribute('placeholder', 'Type in your city and select an option');
+        this.searchInput.setAttribute('autocomplete', 'off');
+        this.searchInput.id = 'searchInputPlugin';
+
+        this.resultsDiv = document.createElement('ul');
+        this.resultsDiv.setAttribute('class', 'dropdown-menu custom-dropdown w-100');
+        this.resultsDiv.id = 'resultsPlugin';
+        this.resultsDiv.setAttribute('aria-labelledby', this.searchInput.id);
+
+        const inputGroup = document.createElement('div');
+        inputGroup.setAttribute('class', 'input-group');
+
+        const formGroup = document.createElement('div');
+        formGroup.setAttribute('class', 'form-group');
+        formGroup.setAttribute('style', 'position: relative;');
+
+        inputGroup.appendChild(this.searchInput);
+        formGroup.appendChild(inputGroup);
+        formGroup.appendChild(this.resultsDiv);
+
+        this.container.appendChild(formGroup);
     }
 
     handleInput(event) {
@@ -65,8 +92,3 @@ class CityCountrySelector {
         }
     }
 }
-
-// To initialize the plugin
-document.addEventListener('DOMContentLoaded', () => {
-    const cityCountrySelector = new CityCountrySelector('searchInput', 'results', 'data');
-});
