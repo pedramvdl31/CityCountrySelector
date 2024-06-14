@@ -30,25 +30,26 @@ To set up and test the City and Country Search Dropdown Plugin, follow these ste
 
 Organize your project files as shown below:
 
+```plaintext
 city-country-search/
 │
 ├── simple-version/
-│ ├── data/
-│ │ ├── cities_a.json
-│ │ ├── cities_b.json
-│ │ └── ...
-│ ├── index.html
-│ ├── script.js
-│ └── styles.css
+│   ├── data/
+│   │   ├── cities_a.json
+│   │   ├── cities_b.json
+│   │   └── ...
+│   ├── index.html
+│   ├── script.js
+│   └── styles.css
 │
 ├── plugin-version/
-│ ├── data/
-│ │ ├── cities_a.json
-│ │ ├── cities_b.json
-│ │ └── ...
-│ ├── index.html
-│ ├── CityCountrySelector.js
-│ └── styles.css
+│   ├── data/
+│   │   ├── cities_a.json
+│   │   ├── cities_b.json
+│   │   └── ...
+│   ├── index.html
+│   ├── CityCountrySelector.js
+│   └── styles.css
 │
 ├── index.html
 ├── README.md
