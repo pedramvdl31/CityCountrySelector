@@ -54,6 +54,7 @@ city-country-search/
 ├── index.html
 ├── README.md
 └── LICENSE
+```
 
 City and country names were taken from a database provided by dr5hn at [https://github.com/dr5hn/countries-states-cities-database](https://github.com/dr5hn/countries-states-cities-database). Thanks and shout out to dr5hn!
 
