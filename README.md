@@ -1,6 +1,7 @@
 # CityCountrySelector.js
 
 Developed by [Pedram Khoshnevis](https://github.com/pedramvdl31) and [Lara Mauricio](https://github.com/laradcm).
+Try the [Demo](https://city-country-selector.webprinciples.com/).
 
 ## City and Country Search Dropdown Plugin
 
