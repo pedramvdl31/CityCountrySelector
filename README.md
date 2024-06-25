@@ -4,7 +4,7 @@ Developed by [Pedram Khoshnevis](https://github.com/pedramvdl31) and [Lara Mauri
 
 ## Try the [Demo](https://city-country-selector.webprinciples.com/).
 
-<p align="center">
+<p align="left">
   <img src="demo-gif.gif" alt="Sample GIF" width="70%">
 </p>
 
