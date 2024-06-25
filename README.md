@@ -4,6 +4,10 @@ Developed by [Pedram Khoshnevis](https://github.com/pedramvdl31) and [Lara Mauri
 
 ## Try the [Demo](https://city-country-selector.webprinciples.com/).
 
+<p align="center">
+  <img src="sample-gif.gif" alt="Sample GIF">
+</p>
+
 ## City and Country Search Dropdown Plugin
 
 This plugin provides a seamless and efficient way for developers to integrate a city and country search feature into their web applications. By leveraging JSON data files, this plugin allows users to type in a city name and receive a dropdown list of matching cities along with their respective countries. This feature enhances user experience by simplifying the selection process for locations, making it particularly useful for applications that require location-based information, such as travel booking sites, e-commerce platforms, and registration forms.
