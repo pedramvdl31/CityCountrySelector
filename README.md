@@ -5,7 +5,7 @@ Developed by [Pedram Khoshnevis](https://github.com/pedramvdl31) and [Lara Mauri
 ## Try the [Demo](https://city-country-selector.webprinciples.com/).
 
 <p align="center">
-  <img src="sample-gif.gif" alt="Sample GIF">
+  <img src="demo-gif.gif" alt="Sample GIF">
 </p>
 
 ## City and Country Search Dropdown Plugin
