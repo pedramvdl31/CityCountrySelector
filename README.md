@@ -2,7 +2,7 @@
 
 Developed by [Pedram Khoshnevis](https://github.com/pedramvdl31) and [Lara Mauricio](https://github.com/laradcm).
 
-## Try the [Demo](https://city-country-selector.webprinciples.com/).
+## Try the <a href="https://city-country-selector.webprinciples.com/" target="_blank">Demo</a>.
 
 <p align="left">
   <img src="demo-gif.gif" alt="Sample GIF" width="70%">
